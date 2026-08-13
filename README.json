@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Source"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Closed Source"
+    },
+    {
+      "description": "Web-search APIs you can wire into your own AI agents by pointing the agent at the API docs, or via an MCP server where one is offered. Building blocks, not standalone end-user apps.\nFocused on general-purpose web search; domain-specific search APIs (academic papers, code repos, jobs, etc.) are out of scope.",
+      "items": [],
+      "title": "Tools for AI Agents"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:09.331Z",
+    "original_repository": "felladrin/awesome-ai-web-search",
+    "original_repository_sha": "2cf4940a9666b7ebe2699fcae521091715c34bcf",
+    "enhanced_repository": "enhansome/enhansome-ai-web-search",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI Web Search with stars"
+  }
+}
