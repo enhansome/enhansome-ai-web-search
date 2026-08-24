@@ -1,7 +1,2390 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2021-04-04",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 396569538,
+            "language": "Python",
+            "last_commit": "2026-08-02T01:55:40Z",
+            "owner": "khoj-ai",
+            "repo": "khoj",
+            "stars": 36695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Khoj",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 396569538,
+            "language": "Python",
+            "last_commit": "2026-08-02T01:55:40Z",
+            "owner": "khoj-ai",
+            "repo": "khoj",
+            "stars": 36695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-12-20",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 580566744,
+            "language": "Python",
+            "last_commit": "2022-12-28T00:27:52Z",
+            "owner": "VikParuchuri",
+            "repo": "researcher",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Researcher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 580566744,
+            "language": "Python",
+            "last_commit": "2022-12-28T00:27:52Z",
+            "owner": "VikParuchuri",
+            "repo": "researcher",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-02-17",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 603085008,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T20:03:54Z",
+            "owner": "huggingface",
+            "repo": "chat-ui",
+            "stars": 10907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat UI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 603085008,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T20:03:54Z",
+            "owner": "huggingface",
+            "repo": "chat-ui",
+            "stars": 10907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-02-19",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 603632973,
+            "language": "TypeScript",
+            "last_commit": "2024-03-28T04:13:59Z",
+            "owner": "mckaywrigley",
+            "repo": "clarity-ai",
+            "stars": 1417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clarity AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 603632973,
+            "language": "TypeScript",
+            "last_commit": "2024-03-28T04:13:59Z",
+            "owner": "mckaywrigley",
+            "repo": "clarity-ai",
+            "stars": 1417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-03-10",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614637892,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:15:21Z",
+            "owner": "LostRuins",
+            "repo": "koboldcpp",
+            "stars": 11510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KoboldCpp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614637892,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:15:21Z",
+            "owner": "LostRuins",
+            "repo": "koboldcpp",
+            "stars": 11510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-04-18",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 607671864,
+            "language": "Vue",
+            "last_commit": "2026-08-18T18:03:48Z",
+            "owner": "webpilot-ai",
+            "repo": "Webpilot",
+            "stars": 1856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebPilot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 607671864,
+            "language": "Vue",
+            "last_commit": "2026-08-18T18:03:48Z",
+            "owner": "webpilot-ai",
+            "repo": "Webpilot",
+            "stars": 1856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-04-27",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633262635,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:20:08Z",
+            "owner": "onyx-dot-app",
+            "repo": "onyx",
+            "stars": 31742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Onyx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633262635,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:20:08Z",
+            "owner": "onyx-dot-app",
+            "repo": "onyx",
+            "stars": 31742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-05-12",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639835356,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:58:46Z",
+            "owner": "assafelovic",
+            "repo": "gpt-researcher",
+            "stars": 29124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Researcher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639835356,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:58:46Z",
+            "owner": "assafelovic",
+            "repo": "gpt-researcher",
+            "stars": 29124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-06-04",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 649170660,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T03:50:06Z",
+            "owner": "Mintplex-Labs",
+            "repo": "anything-llm",
+            "stars": 65139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnythingLLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 649170660,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T03:50:06Z",
+            "owner": "Mintplex-Labs",
+            "repo": "anything-llm",
+            "stars": 65139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-06-11",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 652134847,
+            "language": "Python",
+            "last_commit": "2026-08-20T15:54:33Z",
+            "owner": "qwersyk",
+            "repo": "Newelle",
+            "stars": 1450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Newelle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 652134847,
+            "language": "Python",
+            "last_commit": "2026-08-20T15:54:33Z",
+            "owner": "qwersyk",
+            "repo": "Newelle",
+            "stars": 1450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-10-07",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 701547123,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:36:44Z",
+            "owner": "open-webui",
+            "repo": "open-webui",
+            "stars": 149762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open WebUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 701547123,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:36:44Z",
+            "owner": "open-webui",
+            "repo": "open-webui",
+            "stars": 149762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-10-11",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 703527746,
+            "language": "TypeScript",
+            "last_commit": "2025-12-13T09:01:36Z",
+            "owner": "jacobbergdahl",
+            "repo": "limopola",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Limopola",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 703527746,
+            "language": "TypeScript",
+            "last_commit": "2025-12-13T09:01:36Z",
+            "owner": "jacobbergdahl",
+            "repo": "limopola",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-10-15",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 704892113,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T06:31:44Z",
+            "owner": "felladrin",
+            "repo": "MiniSearch",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniSearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 704892113,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T06:31:44Z",
+            "owner": "felladrin",
+            "repo": "MiniSearch",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-10-16",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 705433491,
+            "language": "Python",
+            "last_commit": "2025-08-18T03:24:03Z",
+            "owner": "myshell-ai",
+            "repo": "AIlice",
+            "stars": 1411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIlice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 705433491,
+            "language": "Python",
+            "last_commit": "2025-08-18T03:24:03Z",
+            "owner": "myshell-ai",
+            "repo": "AIlice",
+            "stars": 1411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-01-23",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 747030811,
+            "language": "TypeScript",
+            "last_commit": "2025-12-02T03:48:24Z",
+            "owner": "leptonai",
+            "repo": "search_with_lepton",
+            "stars": 8072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lepton Search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 747030811,
+            "language": "TypeScript",
+            "last_commit": "2025-12-02T03:48:24Z",
+            "owner": "leptonai",
+            "repo": "search_with_lepton",
+            "stars": 8072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-01-30",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 750215826,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T18:46:52Z",
+            "owner": "heurist-network",
+            "repo": "gpt-search-web",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heurist Search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 750215826,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T18:46:52Z",
+            "owner": "heurist-network",
+            "repo": "gpt-search-web",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03-07",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 768860702,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T12:29:50Z",
+            "owner": "developersdigest",
+            "repo": "llm-answer-engine",
+            "stars": 5037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Answer Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 768860702,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T12:29:50Z",
+            "owner": "developersdigest",
+            "repo": "llm-answer-engine",
+            "stars": 5037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03-08",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 769134044,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T10:20:24Z",
+            "owner": "yokingma",
+            "repo": "SearChat",
+            "stars": 1057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search with AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 769134044,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T10:20:24Z",
+            "owner": "yokingma",
+            "repo": "SearChat",
+            "stars": 1057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03-29",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 776347356,
+            "language": "Go",
+            "last_commit": "2026-03-24T09:58:01Z",
+            "owner": "nilsherzig",
+            "repo": "LLocalSearch",
+            "stars": 5947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLocalSearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 776347356,
+            "language": "Go",
+            "last_commit": "2026-03-24T09:58:01Z",
+            "owner": "nilsherzig",
+            "repo": "LLocalSearch",
+            "stars": 5947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 776347356,
+            "language": "Go",
+            "last_commit": "2026-03-24T09:58:01Z",
+            "owner": "nilsherzig",
+            "repo": "LLocalSearch",
+            "stars": 5947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04-06",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782539945,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T02:21:52Z",
+            "owner": "miurla",
+            "repo": "morphic",
+            "stars": 9058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Morphic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782539945,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T02:21:52Z",
+            "owner": "miurla",
+            "repo": "morphic",
+            "stars": 9058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04-09",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 784181462,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T14:33:06Z",
+            "owner": "ItzCrazyKns",
+            "repo": "Vane",
+            "stars": 36431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perplexica",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 784181462,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T14:33:06Z",
+            "owner": "ItzCrazyKns",
+            "repo": "Vane",
+            "stars": 36431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 784181462,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T14:33:06Z",
+            "owner": "ItzCrazyKns",
+            "repo": "Vane",
+            "stars": 36431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04-09",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 776854298,
+            "language": "Python",
+            "last_commit": "2025-09-30T18:07:21Z",
+            "owner": "stanford-oval",
+            "repo": "storm",
+            "stars": 31123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STORM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 776854298,
+            "language": "Python",
+            "last_commit": "2025-09-30T18:07:21Z",
+            "owner": "stanford-oval",
+            "repo": "storm",
+            "stars": 31123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04-25",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 792039881,
+            "language": "TypeScript",
+            "last_commit": "2024-09-27T07:52:45Z",
+            "owner": "rashadphz",
+            "repo": "farfalle",
+            "stars": 3539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Farfalle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 792039881,
+            "language": "TypeScript",
+            "last_commit": "2024-09-27T07:52:45Z",
+            "owner": "rashadphz",
+            "repo": "farfalle",
+            "stars": 3539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-05-03",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 797528885,
+            "language": "Python",
+            "last_commit": "2025-11-19T01:45:37Z",
+            "owner": "philfung",
+            "repo": "perplexed",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perplexed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 797528885,
+            "language": "Python",
+            "last_commit": "2025-11-19T01:45:37Z",
+            "owner": "philfung",
+            "repo": "perplexed",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-05-14",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 805155266,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:14:26Z",
+            "owner": "CherryHQ",
+            "repo": "cherry-studio",
+            "stars": 50999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cherry Studio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 805155266,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:14:26Z",
+            "owner": "CherryHQ",
+            "repo": "cherry-studio",
+            "stars": 50999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-05-17",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 802186038,
+            "language": "TypeScript",
+            "last_commit": "2025-10-08T16:51:03Z",
+            "owner": "kartikm7",
+            "repo": "llocal",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLocal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 802186038,
+            "language": "TypeScript",
+            "last_commit": "2025-10-08T16:51:03Z",
+            "owner": "kartikm7",
+            "repo": "llocal",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-05-17",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 802260733,
+            "language": "Rust",
+            "last_commit": "2024-10-09T13:41:50Z",
+            "owner": "shadowfax92",
+            "repo": "Fyin",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fyin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 802260733,
+            "language": "Rust",
+            "last_commit": "2024-10-09T13:41:50Z",
+            "owner": "shadowfax92",
+            "repo": "Fyin",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-05-28",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 806060651,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T19:12:17Z",
+            "owner": "Nutlope",
+            "repo": "turboseek",
+            "stars": 1655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turboseek",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 806060651,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T19:12:17Z",
+            "owner": "Nutlope",
+            "repo": "turboseek",
+            "stars": 1655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-05-30",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 805415137,
+            "language": "TypeScript",
+            "last_commit": "2024-05-31T09:45:59Z",
+            "owner": "vincentdnl",
+            "repo": "operativeai",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OperativeAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 805415137,
+            "language": "TypeScript",
+            "last_commit": "2024-05-31T09:45:59Z",
+            "owner": "vincentdnl",
+            "repo": "operativeai",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Screenshot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 805415137,
+            "language": "TypeScript",
+            "last_commit": "2024-05-31T09:45:59Z",
+            "owner": "vincentdnl",
+            "repo": "operativeai",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-06-14",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 816422413,
+            "language": "TypeScript",
+            "last_commit": "2024-10-20T03:59:33Z",
+            "owner": "jjleng",
+            "repo": "sensei",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sensei",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 816422413,
+            "language": "TypeScript",
+            "last_commit": "2024-10-20T03:59:33Z",
+            "owner": "jjleng",
+            "repo": "sensei",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-07-27",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 834597906,
+            "language": "Python",
+            "last_commit": "2025-01-14T10:59:01Z",
+            "owner": "AstraBert",
+            "repo": "PrAIvateSearch",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SearchPhi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 834597906,
+            "language": "Python",
+            "last_commit": "2025-01-14T10:59:01Z",
+            "owner": "AstraBert",
+            "repo": "PrAIvateSearch",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-07-28",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 834688418,
+            "language": "JavaScript",
+            "last_commit": "2025-07-04T10:06:45Z",
+            "owner": "InternLM",
+            "repo": "MindSearch",
+            "stars": 6917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MindSearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 834688418,
+            "language": "JavaScript",
+            "last_commit": "2025-07-04T10:06:45Z",
+            "owner": "InternLM",
+            "repo": "MindSearch",
+            "stars": 6917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-07-31",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 835975784,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:27:54Z",
+            "owner": "MODSetter",
+            "repo": "SurfSense",
+            "stars": 15999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SurfSense",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 835975784,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:27:54Z",
+            "owner": "MODSetter",
+            "repo": "SurfSense",
+            "stars": 15999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-08-03",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 837586322,
+            "language": "Python",
+            "last_commit": "2024-08-04T22:50:24Z",
+            "owner": "YassKhazzan",
+            "repo": "openperplex_backend_os",
+            "stars": 892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPerplex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 837586322,
+            "language": "Python",
+            "last_commit": "2024-08-04T22:50:24Z",
+            "owner": "YassKhazzan",
+            "repo": "openperplex_backend_os",
+            "stars": 892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-08-06",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 838657857,
+            "language": "Python",
+            "last_commit": "2026-04-30T03:46:27Z",
+            "owner": "jayshah5696",
+            "repo": "pravah",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pravah",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 838657857,
+            "language": "Python",
+            "last_commit": "2026-04-30T03:46:27Z",
+            "owner": "jayshah5696",
+            "repo": "pravah",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-08-07",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 839372398,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:28:59Z",
+            "owner": "zaidmukaddam",
+            "repo": "scira",
+            "stars": 11847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scira",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 839372398,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:28:59Z",
+            "owner": "zaidmukaddam",
+            "repo": "scira",
+            "stars": 11847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-08-08",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 839873776,
+            "language": "TypeScript",
+            "last_commit": "2024-08-12T12:29:43Z",
+            "owner": "legraphista",
+            "repo": "localplexity",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalPlexity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 839873776,
+            "language": "TypeScript",
+            "last_commit": "2024-08-12T12:29:43Z",
+            "owner": "legraphista",
+            "repo": "localplexity",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-09-01",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 850734119,
+            "language": "Python",
+            "last_commit": "2026-01-27T23:35:55Z",
+            "owner": "Jay4242",
+            "repo": "llm-websearch",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Websearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 850734119,
+            "language": "Python",
+            "last_commit": "2026-01-27T23:35:55Z",
+            "owner": "Jay4242",
+            "repo": "llm-websearch",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-09-07",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 853615955,
+            "language": "TypeScript",
+            "last_commit": "2025-01-14T14:14:56Z",
+            "owner": "radityaharya",
+            "repo": "looq",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Looq",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 853615955,
+            "language": "TypeScript",
+            "last_commit": "2025-01-14T14:14:56Z",
+            "owner": "radityaharya",
+            "repo": "looq",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-09-07",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 851461757,
+            "language": "JavaScript",
+            "last_commit": "2025-09-24T14:29:35Z",
+            "owner": "shivvamm",
+            "repo": "Search-With-Aisia",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alisia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 851461757,
+            "language": "JavaScript",
+            "last_commit": "2025-09-24T14:29:35Z",
+            "owner": "shivvamm",
+            "repo": "Search-With-Aisia",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10-04",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869881190,
+            "language": "Swift",
+            "last_commit": "2026-05-24T05:34:09Z",
+            "owner": "johnbean393",
+            "repo": "Sidekick",
+            "stars": 3313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sidekick",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869881190,
+            "language": "Swift",
+            "last_commit": "2026-05-24T05:34:09Z",
+            "owner": "johnbean393",
+            "repo": "Sidekick",
+            "stars": 3313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10-06",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 867369132,
+            "language": "TypeScript",
+            "last_commit": "2026-03-22T05:41:34Z",
+            "owner": "navedmerchant",
+            "repo": "MyDeviceAI",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MyDeviceAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 867369132,
+            "language": "TypeScript",
+            "last_commit": "2026-03-22T05:41:34Z",
+            "owner": "navedmerchant",
+            "repo": "MyDeviceAI",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10-17",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 873961862,
+            "language": "Python",
+            "last_commit": "2025-06-17T05:19:50Z",
+            "owner": "pengfeng",
+            "repo": "ask.py",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ask.py",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 873961862,
+            "language": "Python",
+            "last_commit": "2025-06-17T05:19:50Z",
+            "owner": "pengfeng",
+            "repo": "ask.py",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10-24",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 877923596,
+            "language": "Python",
+            "last_commit": "2024-11-06T05:05:24Z",
+            "owner": "cnzzx",
+            "repo": "VSA",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 877923596,
+            "language": "Python",
+            "last_commit": "2024-11-06T05:05:24Z",
+            "owner": "cnzzx",
+            "repo": "VSA",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-10-28",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 815403287,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T12:02:53Z",
+            "owner": "memfreeme",
+            "repo": "memfree",
+            "stars": 1507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemFree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 815403287,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T12:02:53Z",
+            "owner": "memfreeme",
+            "repo": "memfree",
+            "stars": 1507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-11-04",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 883152473,
+            "language": "Svelte",
+            "last_commit": "2024-11-17T21:26:34Z",
+            "owner": "brunostjohn",
+            "repo": "perplexideez",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perplexideez",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 883152473,
+            "language": "Svelte",
+            "last_commit": "2024-11-17T21:26:34Z",
+            "owner": "brunostjohn",
+            "repo": "perplexideez",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-11-08",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 885098527,
+            "language": "JavaScript",
+            "last_commit": "2026-02-10T12:48:38Z",
+            "owner": "Toy-97",
+            "repo": "Chat-WebUI",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat WebUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 885098527,
+            "language": "JavaScript",
+            "last_commit": "2026-02-10T12:48:38Z",
+            "owner": "Toy-97",
+            "repo": "Chat-WebUI",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-11-20",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 891365119,
+            "language": "Python",
+            "last_commit": "2024-12-14T06:50:14Z",
+            "owner": "TheBlewish",
+            "repo": "Automated-AI-Web-Researcher-Ollama",
+            "stars": 3011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automated AI Web Researcher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 891365119,
+            "language": "Python",
+            "last_commit": "2024-12-14T06:50:14Z",
+            "owner": "TheBlewish",
+            "repo": "Automated-AI-Web-Researcher-Ollama",
+            "stars": 3011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12-05",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 898961424,
+            "language": "Python",
+            "last_commit": "2025-02-24T09:55:06Z",
+            "owner": "sooti",
+            "repo": "sootiAI",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SootiAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 898961424,
+            "language": "Python",
+            "last_commit": "2025-02-24T09:55:06Z",
+            "owner": "sooti",
+            "repo": "sootiAI",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12-06",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 898736877,
+            "language": "Python",
+            "last_commit": "2026-08-23T02:42:55Z",
+            "owner": "langchain-ai",
+            "repo": "local-deep-researcher",
+            "stars": 9311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local Deep Researcher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 898736877,
+            "language": "Python",
+            "last_commit": "2026-08-23T02:42:55Z",
+            "owner": "langchain-ai",
+            "repo": "local-deep-researcher",
+            "stars": 9311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12-13",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 902981732,
+            "language": "Python",
+            "last_commit": "2025-03-01T11:42:47Z",
+            "owner": "pcastiglione99",
+            "repo": "RAGify-Search",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAGify Search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 902981732,
+            "language": "Python",
+            "last_commit": "2025-03-01T11:42:47Z",
+            "owner": "pcastiglione99",
+            "repo": "RAGify-Search",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12-19",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 905538292,
+            "language": "Python",
+            "last_commit": "2026-04-19T15:19:45Z",
+            "owner": "leettools-dev",
+            "repo": "leettools",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeetTools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 905538292,
+            "language": "Python",
+            "last_commit": "2026-04-19T15:19:45Z",
+            "owner": "leettools-dev",
+            "repo": "leettools",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12-30",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 906750640,
+            "language": "TypeScript",
+            "last_commit": "2025-11-13T00:07:54Z",
+            "owner": "zachrattner",
+            "repo": "scourhead",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scourhead",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 906750640,
+            "language": "TypeScript",
+            "last_commit": "2025-11-13T00:07:54Z",
+            "owner": "zachrattner",
+            "repo": "scourhead",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-01-14",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 916376760,
+            "language": "Python",
+            "last_commit": "2025-02-15T23:40:14Z",
+            "owner": "hrithikkoduri",
+            "repo": "WebRover",
+            "stars": 1022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebRover",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 916376760,
+            "language": "Python",
+            "last_commit": "2025-02-15T23:40:14Z",
+            "owner": "hrithikkoduri",
+            "repo": "WebRover",
+            "stars": 1022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-01-26",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 922423439,
+            "language": "TypeScript",
+            "last_commit": "2026-05-01T20:59:41Z",
+            "owner": "jina-ai",
+            "repo": "node-DeepResearch",
+            "stars": 5224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jina DeepResearch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 922423439,
+            "language": "TypeScript",
+            "last_commit": "2026-05-01T20:59:41Z",
+            "owner": "jina-ai",
+            "repo": "node-DeepResearch",
+            "stars": 5224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-02-03",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 926639724,
+            "language": "TypeScript",
+            "last_commit": "2025-05-07T15:38:28Z",
+            "owner": "nickscamara",
+            "repo": "open-deep-research",
+            "stars": 6280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Deep Research",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 926639724,
+            "language": "TypeScript",
+            "last_commit": "2025-05-07T15:38:28Z",
+            "owner": "nickscamara",
+            "repo": "open-deep-research",
+            "stars": 6280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-02-09",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 929868765,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:48:06Z",
+            "owner": "LearningCircuit",
+            "repo": "local-deep-research",
+            "stars": 8979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local Deep Research",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 929868765,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:48:06Z",
+            "owner": "LearningCircuit",
+            "repo": "local-deep-research",
+            "stars": 8979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-02-09",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 929918364,
+            "language": "Python",
+            "last_commit": "2026-05-13T19:18:05Z",
+            "owner": "masterFoad",
+            "repo": "NanoSage",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanoSage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 929918364,
+            "language": "Python",
+            "last_commit": "2026-05-13T19:18:05Z",
+            "owner": "masterFoad",
+            "repo": "NanoSage",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-02-14",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932854922,
+            "language": "TypeScript",
+            "last_commit": "2025-04-29T02:17:29Z",
+            "owner": "AsyncFuncAI",
+            "repo": "rabbitholes",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RabbitHoles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932854922,
+            "language": "TypeScript",
+            "last_commit": "2025-04-29T02:17:29Z",
+            "owner": "AsyncFuncAI",
+            "repo": "rabbitholes",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-02-19",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932490533,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:30:41Z",
+            "owner": "ThinkInAIXYZ",
+            "repo": "deepchat",
+            "stars": 6278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepChat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932490533,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:30:41Z",
+            "owner": "ThinkInAIXYZ",
+            "repo": "deepchat",
+            "stars": 6278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-02-25",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 936974548,
+            "language": "JavaScript",
+            "last_commit": "2026-06-18T14:43:29Z",
+            "owner": "u14app",
+            "repo": "deep-research",
+            "stars": 4684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "U14 Deep Research",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 936974548,
+            "language": "JavaScript",
+            "last_commit": "2026-06-18T14:43:29Z",
+            "owner": "u14app",
+            "repo": "deep-research",
+            "stars": 4684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-04-06",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961592467,
+            "language": "Python",
+            "last_commit": "2025-07-06T09:13:01Z",
+            "owner": "AstraBert",
+            "repo": "llama-4-researcher",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LlamaResearcher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961592467,
+            "language": "Python",
+            "last_commit": "2025-07-06T09:13:01Z",
+            "owner": "AstraBert",
+            "repo": "llama-4-researcher",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-04-09",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 979115477,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:48:38Z",
+            "owner": "bytedance",
+            "repo": "deer-flow",
+            "stars": 80777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeerFlow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 979115477,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:48:38Z",
+            "owner": "bytedance",
+            "repo": "deer-flow",
+            "stars": 80777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-04-26",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 973019360,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T02:12:07Z",
+            "owner": "brooksy4503",
+            "repo": "chatlima",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatLima",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 973019360,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T02:12:07Z",
+            "owner": "brooksy4503",
+            "repo": "chatlima",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-05-10",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 981006904,
+            "language": "TypeScript",
+            "last_commit": "2026-05-23T08:31:55Z",
+            "owner": "JasonHonKL",
+            "repo": "spy-search",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spy Search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 981006904,
+            "language": "TypeScript",
+            "last_commit": "2026-05-23T08:31:55Z",
+            "owner": "JasonHonKL",
+            "repo": "spy-search",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-05-22",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988337333,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-14T05:25:52Z",
+            "owner": "google-gemini",
+            "repo": "gemini-fullstack-langgraph-quickstart",
+            "stars": 18318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemini Fullstack LangGraph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988337333,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-14T05:25:52Z",
+            "owner": "google-gemini",
+            "repo": "gemini-fullstack-langgraph-quickstart",
+            "stars": 18318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-10-03",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1069364213,
+            "language": "TypeScript",
+            "last_commit": "2025-11-14T22:34:05Z",
+            "owner": "edoigtrd",
+            "repo": "ubiquite",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ubiquité",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1069364213,
+            "language": "TypeScript",
+            "last_commit": "2025-11-14T22:34:05Z",
+            "owner": "edoigtrd",
+            "repo": "ubiquite",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-02-05",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1150751685,
+            "language": "TypeScript",
+            "last_commit": "2026-05-20T15:02:59Z",
+            "owner": "AL-MARID",
+            "repo": "Lorph",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lorph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1150751685,
+            "language": "TypeScript",
+            "last_commit": "2026-05-20T15:02:59Z",
+            "owner": "AL-MARID",
+            "repo": "Lorph",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-02-08",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152277930,
+            "language": "Python",
+            "last_commit": "2026-03-01T14:28:56Z",
+            "owner": "rupeshs",
+            "repo": "verity",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152277930,
+            "language": "Python",
+            "last_commit": "2026-03-01T14:28:56Z",
+            "owner": "rupeshs",
+            "repo": "verity",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-02-10",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152447519,
+            "language": "TypeScript",
+            "last_commit": "2026-06-27T22:04:34Z",
+            "owner": "chutesai",
+            "repo": "chutes-search",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chutes Search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152447519,
+            "language": "TypeScript",
+            "last_commit": "2026-06-27T22:04:34Z",
+            "owner": "chutesai",
+            "repo": "chutes-search",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-03-04",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1173225605,
+            "language": "Python",
+            "last_commit": "2026-08-24T08:53:14Z",
+            "owner": "tobocop2",
+            "repo": "lilbee",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lilbee",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1173225605,
+            "language": "Python",
+            "last_commit": "2026-08-24T08:53:14Z",
+            "owner": "tobocop2",
+            "repo": "lilbee",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-05-01",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1226385452,
+            "language": "Python",
+            "last_commit": "2026-08-17T18:44:23Z",
+            "owner": "jasonzliang",
+            "repo": "caesar-agent",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caesar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1226385452,
+            "language": "Python",
+            "last_commit": "2026-08-17T18:44:23Z",
+            "owner": "jasonzliang",
+            "repo": "caesar-agent",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Open Source"
+    },
+    {
+      "description": "Web-search APIs you can wire into your own AI agents by pointing the agent at the API docs, or via an MCP server where one is offered. Building blocks, not standalone end-user apps.\nFocused on general-purpose web search; domain-specific search APIs (academic papers, code repos, jobs, etc.) are out of scope.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2021-04-12",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357241735,
+            "language": "Python",
+            "last_commit": "2026-08-22T05:35:24Z",
+            "owner": "searxng",
+            "repo": "searxng",
+            "stars": 36036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SearXNG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357241735,
+            "language": "Python",
+            "last_commit": "2026-08-22T05:35:24Z",
+            "owner": "searxng",
+            "repo": "searxng",
+            "stars": 36036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-03-03",
+          "description": "DataForSEO SERP API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766644618,
+            "language": "Python",
+            "last_commit": "2026-08-21T18:13:07Z",
+            "owner": "dataforseo",
+            "repo": "PythonClient",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04-10",
+          "description": "Jina Scrape + Search",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 784546140,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T02:56:46Z",
+            "owner": "jina-ai",
+            "repo": "reader",
+            "stars": 11905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04-15",
+          "description": "Firecrawl Scrape + Search",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 787076358,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:54:45Z",
+            "owner": "firecrawl",
+            "repo": "firecrawl",
+            "stars": 171652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-11-08",
+          "description": "Linkup Search API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 885536057,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:36:08Z",
+            "owner": "LinkupPlatform",
+            "repo": "linkup-python-sdk",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-03-09",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1176688502,
+            "language": "Rust",
+            "last_commit": "2026-08-23T18:44:23Z",
+            "owner": "xberg-io",
+            "repo": "crawlberg",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crawlberg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1176688502,
+            "language": "Rust",
+            "last_commit": "2026-08-23T18:44:23Z",
+            "owner": "xberg-io",
+            "repo": "crawlberg",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-07-07",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1291659608,
+            "language": "Python",
+            "last_commit": "2026-07-16T10:42:25Z",
+            "owner": "goofrey",
+            "repo": "zoom-search",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zoom Search",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1291659608,
+            "language": "Python",
+            "last_commit": "2026-07-16T10:42:25Z",
+            "owner": "goofrey",
+            "repo": "zoom-search",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2026-08-07",
+          "description": "Querit Search API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1326224784,
+            "language": "Python",
+            "last_commit": "2026-08-21T13:06:19Z",
+            "owner": "querit-ai",
+            "repo": "querit-mcp",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Tools for AI Agents"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T11:03:12.898Z",
+    "last_updated": "2026-08-24T14:10:48.131Z",
     "original_repository": "felladrin/awesome-ai-web-search",
     "original_repository_id": 885931826,
     "original_repository_sha": "41fa5b440fd4b0595b4a6ea6367f2e344b24ba29",
