@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2021-04-04",
+          "title": "khoj-ai/khoj",
           "description": null,
           "children": [],
           "repo_info": {
@@ -15,7 +15,7 @@
             "last_commit": "2026-08-02T01:55:40Z",
             "owner": "khoj-ai",
             "repo": "khoj",
-            "stars": 36695
+            "stars": 36708
           }
         },
         {
@@ -30,12 +30,12 @@
             "last_commit": "2026-08-02T01:55:40Z",
             "owner": "khoj-ai",
             "repo": "khoj",
-            "stars": 36695
+            "stars": 36708
           }
         },
         {
           "node_type": "item",
-          "title": "2022-12-20",
+          "title": "VikParuchuri/researcher",
           "description": null,
           "children": [],
           "repo_info": {
@@ -65,17 +65,17 @@
         },
         {
           "node_type": "item",
-          "title": "2023-02-17",
+          "title": "huggingface/chat-ui",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T20:03:54Z",
+            "last_commit": "2026-08-24T23:45:19Z",
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10907
+            "stars": 10908
           }
         },
         {
@@ -87,15 +87,15 @@
             "archived": false,
             "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T20:03:54Z",
+            "last_commit": "2026-08-24T23:45:19Z",
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10907
+            "stars": 10908
           }
         },
         {
           "node_type": "item",
-          "title": "2023-02-19",
+          "title": "mckaywrigley/clarity-ai",
           "description": null,
           "children": [],
           "repo_info": {
@@ -125,17 +125,17 @@
         },
         {
           "node_type": "item",
-          "title": "2023-03-10",
+          "title": "LostRuins/koboldcpp",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 614637892,
             "language": "C++",
-            "last_commit": "2026-08-24T13:15:21Z",
+            "last_commit": "2026-08-24T14:59:22Z",
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11510
+            "stars": 11514
           }
         },
         {
@@ -147,15 +147,15 @@
             "archived": false,
             "id": 614637892,
             "language": "C++",
-            "last_commit": "2026-08-24T13:15:21Z",
+            "last_commit": "2026-08-24T14:59:22Z",
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11510
+            "stars": 11514
           }
         },
         {
           "node_type": "item",
-          "title": "2023-04-18",
+          "title": "webpilot-ai/Webpilot",
           "description": null,
           "children": [],
           "repo_info": {
@@ -185,17 +185,17 @@
         },
         {
           "node_type": "item",
-          "title": "2023-04-27",
+          "title": "onyx-dot-app/onyx",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 633262635,
             "language": "Python",
-            "last_commit": "2026-08-24T13:20:08Z",
+            "last_commit": "2026-08-25T06:03:37Z",
             "owner": "onyx-dot-app",
             "repo": "onyx",
-            "stars": 31742
+            "stars": 31747
           }
         },
         {
@@ -207,15 +207,15 @@
             "archived": false,
             "id": 633262635,
             "language": "Python",
-            "last_commit": "2026-08-24T13:20:08Z",
+            "last_commit": "2026-08-25T06:03:37Z",
             "owner": "onyx-dot-app",
             "repo": "onyx",
-            "stars": 31742
+            "stars": 31747
           }
         },
         {
           "node_type": "item",
-          "title": "2023-05-12",
+          "title": "assafelovic/gpt-researcher",
           "description": null,
           "children": [],
           "repo_info": {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-24T06:58:46Z",
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29124
+            "stars": 29141
           }
         },
         {
@@ -240,22 +240,22 @@
             "last_commit": "2026-08-24T06:58:46Z",
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29124
+            "stars": 29141
           }
         },
         {
           "node_type": "item",
-          "title": "2023-06-04",
+          "title": "Mintplex-Labs/anything-llm",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 649170660,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T03:50:06Z",
+            "last_commit": "2026-08-25T01:25:22Z",
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65139
+            "stars": 65162
           }
         },
         {
@@ -267,15 +267,15 @@
             "archived": false,
             "id": 649170660,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T03:50:06Z",
+            "last_commit": "2026-08-25T01:25:22Z",
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65139
+            "stars": 65162
           }
         },
         {
           "node_type": "item",
-          "title": "2023-06-11",
+          "title": "qwersyk/Newelle",
           "description": null,
           "children": [],
           "repo_info": {
@@ -305,17 +305,17 @@
         },
         {
           "node_type": "item",
-          "title": "2023-10-07",
+          "title": "open-webui/open-webui",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-24T11:36:44Z",
+            "last_commit": "2026-08-25T01:15:56Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 149762
+            "stars": 149826
           }
         },
         {
@@ -327,15 +327,15 @@
             "archived": false,
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-24T11:36:44Z",
+            "last_commit": "2026-08-25T01:15:56Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 149762
+            "stars": 149826
           }
         },
         {
           "node_type": "item",
-          "title": "2023-10-11",
+          "title": "jacobbergdahl/limopola",
           "description": null,
           "children": [],
           "repo_info": {
@@ -365,7 +365,7 @@
         },
         {
           "node_type": "item",
-          "title": "2023-10-15",
+          "title": "felladrin/MiniSearch",
           "description": null,
           "children": [],
           "repo_info": {
@@ -395,7 +395,7 @@
         },
         {
           "node_type": "item",
-          "title": "2023-10-16",
+          "title": "myshell-ai/AIlice",
           "description": null,
           "children": [],
           "repo_info": {
@@ -425,7 +425,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-01-23",
+          "title": "leptonai/search_with_lepton",
           "description": null,
           "children": [],
           "repo_info": {
@@ -455,7 +455,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-01-30",
+          "title": "heurist-network/gpt-search-web",
           "description": null,
           "children": [],
           "repo_info": {
@@ -485,7 +485,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-03-07",
+          "title": "developersdigest/llm-answer-engine",
           "description": null,
           "children": [],
           "repo_info": {
@@ -515,7 +515,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-03-08",
+          "title": "yokingma/SearChat",
           "description": null,
           "children": [],
           "repo_info": {
@@ -525,7 +525,7 @@
             "last_commit": "2026-05-13T10:20:24Z",
             "owner": "yokingma",
             "repo": "SearChat",
-            "stars": 1057
+            "stars": 1058
           }
         },
         {
@@ -540,12 +540,12 @@
             "last_commit": "2026-05-13T10:20:24Z",
             "owner": "yokingma",
             "repo": "SearChat",
-            "stars": 1057
+            "stars": 1058
           }
         },
         {
           "node_type": "item",
-          "title": "2024-03-29",
+          "title": "nilsherzig/LLocalSearch",
           "description": null,
           "children": [],
           "repo_info": {
@@ -590,17 +590,17 @@
         },
         {
           "node_type": "item",
-          "title": "2024-04-06",
+          "title": "miurla/morphic",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 782539945,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:21:52Z",
+            "last_commit": "2026-08-25T06:00:47Z",
             "owner": "miurla",
             "repo": "morphic",
-            "stars": 9058
+            "stars": 9060
           }
         },
         {
@@ -612,15 +612,15 @@
             "archived": false,
             "id": 782539945,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:21:52Z",
+            "last_commit": "2026-08-25T06:00:47Z",
             "owner": "miurla",
             "repo": "morphic",
-            "stars": 9058
+            "stars": 9060
           }
         },
         {
           "node_type": "item",
-          "title": "2024-04-09",
+          "title": "ItzCrazyKns/Vane",
           "description": null,
           "children": [],
           "repo_info": {
@@ -630,7 +630,7 @@
             "last_commit": "2026-04-11T14:33:06Z",
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 36431
+            "stars": 36449
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-04-11T14:33:06Z",
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 36431
+            "stars": 36449
           }
         },
         {
@@ -660,12 +660,12 @@
             "last_commit": "2026-04-11T14:33:06Z",
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 36431
+            "stars": 36449
           }
         },
         {
           "node_type": "item",
-          "title": "2024-04-09",
+          "title": "stanford-oval/storm",
           "description": null,
           "children": [],
           "repo_info": {
@@ -675,7 +675,7 @@
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31123
+            "stars": 31124
           }
         },
         {
@@ -690,12 +690,12 @@
             "last_commit": "2025-09-30T18:07:21Z",
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31123
+            "stars": 31124
           }
         },
         {
           "node_type": "item",
-          "title": "2024-04-25",
+          "title": "rashadphz/farfalle",
           "description": null,
           "children": [],
           "repo_info": {
@@ -705,7 +705,7 @@
             "last_commit": "2024-09-27T07:52:45Z",
             "owner": "rashadphz",
             "repo": "farfalle",
-            "stars": 3539
+            "stars": 3540
           }
         },
         {
@@ -720,12 +720,12 @@
             "last_commit": "2024-09-27T07:52:45Z",
             "owner": "rashadphz",
             "repo": "farfalle",
-            "stars": 3539
+            "stars": 3540
           }
         },
         {
           "node_type": "item",
-          "title": "2024-05-03",
+          "title": "philfung/perplexed",
           "description": null,
           "children": [],
           "repo_info": {
@@ -755,17 +755,17 @@
         },
         {
           "node_type": "item",
-          "title": "2024-05-14",
+          "title": "CherryHQ/cherry-studio",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 805155266,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:14:26Z",
+            "last_commit": "2026-08-25T06:02:48Z",
             "owner": "CherryHQ",
             "repo": "cherry-studio",
-            "stars": 50999
+            "stars": 51020
           }
         },
         {
@@ -777,15 +777,15 @@
             "archived": false,
             "id": 805155266,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:14:26Z",
+            "last_commit": "2026-08-25T06:02:48Z",
             "owner": "CherryHQ",
             "repo": "cherry-studio",
-            "stars": 50999
+            "stars": 51020
           }
         },
         {
           "node_type": "item",
-          "title": "2024-05-17",
+          "title": "kartikm7/llocal",
           "description": null,
           "children": [],
           "repo_info": {
@@ -815,7 +815,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-05-17",
+          "title": "shadowfax92/Fyin",
           "description": null,
           "children": [],
           "repo_info": {
@@ -845,7 +845,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-05-28",
+          "title": "Nutlope/turboseek",
           "description": null,
           "children": [],
           "repo_info": {
@@ -875,7 +875,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-05-30",
+          "title": "vincentdnl/operativeai",
           "description": null,
           "children": [],
           "repo_info": {
@@ -920,7 +920,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-06-14",
+          "title": "jjleng/sensei",
           "description": null,
           "children": [],
           "repo_info": {
@@ -950,7 +950,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-07-27",
+          "title": "AstraBert/PrAIvateSearch",
           "description": null,
           "children": [],
           "repo_info": {
@@ -980,7 +980,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-07-28",
+          "title": "InternLM/MindSearch",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1010,17 +1010,17 @@
         },
         {
           "node_type": "item",
-          "title": "2024-07-31",
+          "title": "MODSetter/SurfSense",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 835975784,
             "language": "Python",
-            "last_commit": "2026-08-24T09:27:54Z",
+            "last_commit": "2026-08-24T20:59:25Z",
             "owner": "MODSetter",
             "repo": "SurfSense",
-            "stars": 15999
+            "stars": 16005
           }
         },
         {
@@ -1032,15 +1032,15 @@
             "archived": false,
             "id": 835975784,
             "language": "Python",
-            "last_commit": "2026-08-24T09:27:54Z",
+            "last_commit": "2026-08-24T20:59:25Z",
             "owner": "MODSetter",
             "repo": "SurfSense",
-            "stars": 15999
+            "stars": 16005
           }
         },
         {
           "node_type": "item",
-          "title": "2024-08-03",
+          "title": "YassKhazzan/openperplex_backend_os",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1070,7 +1070,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-08-06",
+          "title": "jayshah5696/pravah",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1100,7 +1100,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-08-07",
+          "title": "zaidmukaddam/scira",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1110,7 +1110,7 @@
             "last_commit": "2026-08-12T22:28:59Z",
             "owner": "zaidmukaddam",
             "repo": "scira",
-            "stars": 11847
+            "stars": 11849
           }
         },
         {
@@ -1125,12 +1125,12 @@
             "last_commit": "2026-08-12T22:28:59Z",
             "owner": "zaidmukaddam",
             "repo": "scira",
-            "stars": 11847
+            "stars": 11849
           }
         },
         {
           "node_type": "item",
-          "title": "2024-08-08",
+          "title": "legraphista/localplexity",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1160,7 +1160,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-09-01",
+          "title": "Jay4242/llm-websearch",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1190,7 +1190,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-09-07",
+          "title": "radityaharya/looq",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1220,7 +1220,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-09-07",
+          "title": "shivvamm/Search-With-Aisia",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1250,7 +1250,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-10-04",
+          "title": "johnbean393/Sidekick",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1280,7 +1280,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-10-06",
+          "title": "navedmerchant/MyDeviceAI",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1310,7 +1310,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-10-17",
+          "title": "pengfeng/ask.py",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1340,7 +1340,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-10-24",
+          "title": "cnzzx/VSA",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1370,7 +1370,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-10-28",
+          "title": "memfreeme/memfree",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1400,7 +1400,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-11-04",
+          "title": "brunostjohn/perplexideez",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1430,7 +1430,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-11-08",
+          "title": "Toy-97/Chat-WebUI",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1460,7 +1460,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-11-20",
+          "title": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1470,7 +1470,7 @@
             "last_commit": "2024-12-14T06:50:14Z",
             "owner": "TheBlewish",
             "repo": "Automated-AI-Web-Researcher-Ollama",
-            "stars": 3011
+            "stars": 3010
           }
         },
         {
@@ -1485,12 +1485,12 @@
             "last_commit": "2024-12-14T06:50:14Z",
             "owner": "TheBlewish",
             "repo": "Automated-AI-Web-Researcher-Ollama",
-            "stars": 3011
+            "stars": 3010
           }
         },
         {
           "node_type": "item",
-          "title": "2024-12-05",
+          "title": "sooti/sootiAI",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1520,7 +1520,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-12-06",
+          "title": "langchain-ai/local-deep-researcher",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1550,7 +1550,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-12-13",
+          "title": "pcastiglione99/RAGify-Search",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1580,7 +1580,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-12-19",
+          "title": "leettools-dev/leettools",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1610,7 +1610,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-12-30",
+          "title": "zachrattner/scourhead",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1640,7 +1640,7 @@
         },
         {
           "node_type": "item",
-          "title": "2025-01-14",
+          "title": "hrithikkoduri/WebRover",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1670,7 +1670,7 @@
         },
         {
           "node_type": "item",
-          "title": "2025-01-26",
+          "title": "jina-ai/node-DeepResearch",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1700,7 +1700,7 @@
         },
         {
           "node_type": "item",
-          "title": "2025-02-03",
+          "title": "nickscamara/open-deep-research",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1730,17 +1730,17 @@
         },
         {
           "node_type": "item",
-          "title": "2025-02-09",
+          "title": "LearningCircuit/local-deep-research",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 929868765,
             "language": "Python",
-            "last_commit": "2026-08-24T06:48:06Z",
+            "last_commit": "2026-08-25T05:56:55Z",
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 8979
+            "stars": 8985
           }
         },
         {
@@ -1752,15 +1752,15 @@
             "archived": false,
             "id": 929868765,
             "language": "Python",
-            "last_commit": "2026-08-24T06:48:06Z",
+            "last_commit": "2026-08-25T05:56:55Z",
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 8979
+            "stars": 8985
           }
         },
         {
           "node_type": "item",
-          "title": "2025-02-09",
+          "title": "masterFoad/NanoSage",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1790,7 +1790,7 @@
         },
         {
           "node_type": "item",
-          "title": "2025-02-14",
+          "title": "AsyncFuncAI/rabbitholes",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1820,17 +1820,17 @@
         },
         {
           "node_type": "item",
-          "title": "2025-02-19",
+          "title": "ThinkInAIXYZ/deepchat",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 932490533,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:30:41Z",
+            "last_commit": "2026-08-25T05:34:12Z",
             "owner": "ThinkInAIXYZ",
             "repo": "deepchat",
-            "stars": 6278
+            "stars": 6279
           }
         },
         {
@@ -1842,15 +1842,15 @@
             "archived": false,
             "id": 932490533,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:30:41Z",
+            "last_commit": "2026-08-25T05:34:12Z",
             "owner": "ThinkInAIXYZ",
             "repo": "deepchat",
-            "stars": 6278
+            "stars": 6279
           }
         },
         {
           "node_type": "item",
-          "title": "2025-02-25",
+          "title": "u14app/deep-research",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1880,7 +1880,7 @@
         },
         {
           "node_type": "item",
-          "title": "2025-04-06",
+          "title": "AstraBert/llama-4-researcher",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1910,17 +1910,17 @@
         },
         {
           "node_type": "item",
-          "title": "2025-04-09",
+          "title": "bytedance/deer-flow",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 979115477,
             "language": "Python",
-            "last_commit": "2026-08-24T13:48:38Z",
+            "last_commit": "2026-08-25T02:00:32Z",
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 80777
+            "stars": 80818
           }
         },
         {
@@ -1932,15 +1932,15 @@
             "archived": false,
             "id": 979115477,
             "language": "Python",
-            "last_commit": "2026-08-24T13:48:38Z",
+            "last_commit": "2026-08-25T02:00:32Z",
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 80777
+            "stars": 80818
           }
         },
         {
           "node_type": "item",
-          "title": "2025-04-26",
+          "title": "brooksy4503/chatlima",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1970,7 +1970,7 @@
         },
         {
           "node_type": "item",
-          "title": "2025-05-10",
+          "title": "JasonHonKL/spy-search",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2000,7 +2000,7 @@
         },
         {
           "node_type": "item",
-          "title": "2025-05-22",
+          "title": "google-gemini/gemini-fullstack-langgraph-quickstart",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2030,7 +2030,7 @@
         },
         {
           "node_type": "item",
-          "title": "2025-10-03",
+          "title": "edoigtrd/ubiquite",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2060,7 +2060,7 @@
         },
         {
           "node_type": "item",
-          "title": "2026-02-05",
+          "title": "AL-MARID/Lorph",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2090,7 +2090,7 @@
         },
         {
           "node_type": "item",
-          "title": "2026-02-08",
+          "title": "rupeshs/verity",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2120,7 +2120,7 @@
         },
         {
           "node_type": "item",
-          "title": "2026-02-10",
+          "title": "chutesai/chutes-search",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2150,14 +2150,14 @@
         },
         {
           "node_type": "item",
-          "title": "2026-03-04",
+          "title": "tobocop2/lilbee",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1173225605,
             "language": "Python",
-            "last_commit": "2026-08-24T08:53:14Z",
+            "last_commit": "2026-08-25T03:49:06Z",
             "owner": "tobocop2",
             "repo": "lilbee",
             "stars": 47
@@ -2172,7 +2172,7 @@
             "archived": false,
             "id": 1173225605,
             "language": "Python",
-            "last_commit": "2026-08-24T08:53:14Z",
+            "last_commit": "2026-08-25T03:49:06Z",
             "owner": "tobocop2",
             "repo": "lilbee",
             "stars": 47
@@ -2180,7 +2180,7 @@
         },
         {
           "node_type": "item",
-          "title": "2026-05-01",
+          "title": "jasonzliang/caesar-agent",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2216,7 +2216,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2021-04-12",
+          "title": "searxng/searxng",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2226,7 +2226,7 @@
             "last_commit": "2026-08-22T05:35:24Z",
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 36036
+            "stars": 36072
           }
         },
         {
@@ -2241,12 +2241,12 @@
             "last_commit": "2026-08-22T05:35:24Z",
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 36036
+            "stars": 36072
           }
         },
         {
           "node_type": "item",
-          "title": "2024-03-03",
+          "title": "dataforseo/PythonClient",
           "description": "DataForSEO SERP API",
           "children": [],
           "repo_info": {
@@ -2261,7 +2261,7 @@
         },
         {
           "node_type": "item",
-          "title": "2024-04-10",
+          "title": "jina-ai/reader",
           "description": "Jina Scrape + Search",
           "children": [],
           "repo_info": {
@@ -2276,22 +2276,22 @@
         },
         {
           "node_type": "item",
-          "title": "2024-04-15",
+          "title": "firecrawl/firecrawl",
           "description": "Firecrawl Scrape + Search",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 787076358,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:54:45Z",
+            "last_commit": "2026-08-24T18:58:49Z",
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 171652
+            "stars": 171970
           }
         },
         {
           "node_type": "item",
-          "title": "2024-11-08",
+          "title": "LinkupPlatform/linkup-python-sdk",
           "description": "Linkup Search API",
           "children": [],
           "repo_info": {
@@ -2306,14 +2306,14 @@
         },
         {
           "node_type": "item",
-          "title": "2026-03-09",
+          "title": "xberg-io/crawlberg",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1176688502,
             "language": "Rust",
-            "last_commit": "2026-08-23T18:44:23Z",
+            "last_commit": "2026-08-24T23:02:20Z",
             "owner": "xberg-io",
             "repo": "crawlberg",
             "stars": 162
@@ -2328,7 +2328,7 @@
             "archived": false,
             "id": 1176688502,
             "language": "Rust",
-            "last_commit": "2026-08-23T18:44:23Z",
+            "last_commit": "2026-08-24T23:02:20Z",
             "owner": "xberg-io",
             "repo": "crawlberg",
             "stars": 162
@@ -2336,7 +2336,7 @@
         },
         {
           "node_type": "item",
-          "title": "2026-07-07",
+          "title": "goofrey/zoom-search",
           "description": null,
           "children": [],
           "repo_info": {
@@ -2366,7 +2366,7 @@
         },
         {
           "node_type": "item",
-          "title": "2026-08-07",
+          "title": "querit-ai/querit-mcp",
           "description": "Querit Search API",
           "children": [],
           "repo_info": {
@@ -2384,7 +2384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:48.131Z",
+    "last_updated": "2026-08-25T06:06:47.378Z",
     "original_repository": "felladrin/awesome-ai-web-search",
     "original_repository_id": 885931826,
     "original_repository_sha": "41fa5b440fd4b0595b4a6ea6367f2e344b24ba29",
