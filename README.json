@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+            "homepage": "https://khoj.dev",
             "id": 396569538,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-02T01:55:40Z",
+            "open_issues": 144,
             "owner": "khoj-ai",
             "repo": "khoj",
-            "stars": 36758
+            "stars": 36760,
+            "topics": [
+              "agent",
+              "ai",
+              "assistant",
+              "chat",
+              "chatgpt",
+              "emacs",
+              "image-generation",
+              "llama3",
+              "llamacpp",
+              "llm",
+              "obsidian",
+              "obsidian-md",
+              "offline-llm",
+              "productivity",
+              "rag",
+              "research",
+              "self-hosted",
+              "semantic-search",
+              "stt",
+              "whatsapp-ai"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -26,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+            "homepage": "https://khoj.dev",
             "id": 396569538,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-02T01:55:40Z",
+            "open_issues": 144,
             "owner": "khoj-ai",
             "repo": "khoj",
-            "stars": 36758
+            "stars": 36760,
+            "topics": [
+              "agent",
+              "ai",
+              "assistant",
+              "chat",
+              "chatgpt",
+              "emacs",
+              "image-generation",
+              "llama3",
+              "llamacpp",
+              "llm",
+              "obsidian",
+              "obsidian-md",
+              "offline-llm",
+              "productivity",
+              "rag",
+              "research",
+              "self-hosted",
+              "semantic-search",
+              "stt",
+              "whatsapp-ai"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -42,12 +94,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Concise answers to search queries using Google and GPT-3.  Includes citations.",
+            "homepage": null,
             "id": 580566744,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-28T00:27:52Z",
+            "open_issues": 0,
             "owner": "VikParuchuri",
             "repo": "researcher",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "deep-learning",
+              "google",
+              "python",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -58,12 +120,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Concise answers to search queries using Google and GPT-3.  Includes citations.",
+            "homepage": null,
             "id": 580566744,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-28T00:27:52Z",
+            "open_issues": 0,
             "owner": "VikParuchuri",
             "repo": "researcher",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "deep-learning",
+              "google",
+              "python",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -74,12 +146,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source codebase powering HuggingChat",
+            "homepage": "https://huggingface.co/chat",
             "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:09:31Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:15:00Z",
+            "open_issues": 274,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10917
+            "stars": 10918,
+            "topics": [
+              "chatgpt",
+              "hacktoberfest",
+              "huggingface",
+              "llm",
+              "svelte",
+              "svelte-kit",
+              "sveltekit",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -90,12 +177,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source codebase powering HuggingChat",
+            "homepage": "https://huggingface.co/chat",
             "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:09:31Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:15:00Z",
+            "open_issues": 274,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10917
+            "stars": 10918,
+            "topics": [
+              "chatgpt",
+              "hacktoberfest",
+              "huggingface",
+              "llm",
+              "svelte",
+              "svelte-kit",
+              "sveltekit",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -106,12 +208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Perplexity clone.",
+            "homepage": "https://JoinTakeoff.com",
             "id": 603632973,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-28T04:13:59Z",
+            "open_issues": 8,
             "owner": "mckaywrigley",
             "repo": "clarity-ai",
-            "stars": 1420
+            "stars": 1420,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -122,12 +229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Perplexity clone.",
+            "homepage": "https://JoinTakeoff.com",
             "id": 603632973,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-28T04:13:59Z",
+            "open_issues": 8,
             "owner": "mckaywrigley",
             "repo": "clarity-ai",
-            "stars": 1420
+            "stars": 1420,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -138,12 +250,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run GGUF models easily with a KoboldAI UI. One File. Zero Install.",
+            "homepage": "https://github.com/LostRuins/koboldcpp/releases/latest",
             "id": 614637892,
             "language": "C++",
-            "last_commit": "2026-08-28T14:55:53Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:22:33Z",
+            "open_issues": 504,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11558
+            "stars": 11559,
+            "topics": [
+              "gemma",
+              "ggml",
+              "gguf",
+              "koboldai",
+              "koboldcpp",
+              "language-model",
+              "llama",
+              "llamacpp",
+              "llm",
+              "mistral"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -154,12 +282,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run GGUF models easily with a KoboldAI UI. One File. Zero Install.",
+            "homepage": "https://github.com/LostRuins/koboldcpp/releases/latest",
             "id": 614637892,
             "language": "C++",
-            "last_commit": "2026-08-28T14:55:53Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:22:33Z",
+            "open_issues": 504,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11558
+            "stars": 11559,
+            "topics": [
+              "gemma",
+              "ggml",
+              "gguf",
+              "koboldai",
+              "koboldcpp",
+              "language-model",
+              "llama",
+              "llamacpp",
+              "llm",
+              "mistral"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -170,12 +314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.webpilot.ai",
             "id": 607671864,
             "language": "Vue",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-18T18:03:48Z",
+            "open_issues": 25,
             "owner": "webpilot-ai",
             "repo": "Webpilot",
-            "stars": 1856
+            "stars": 1856,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -186,12 +335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.webpilot.ai",
             "id": 607671864,
             "language": "Vue",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-18T18:03:48Z",
+            "open_issues": 25,
             "owner": "webpilot-ai",
             "repo": "Webpilot",
-            "stars": 1856
+            "stars": 1856,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -202,12 +356,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+            "homepage": "https://onyx.app",
             "id": 633262635,
             "language": "Python",
-            "last_commit": "2026-08-28T19:52:47Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:39:10Z",
+            "open_issues": 427,
             "owner": "onyx-dot-app",
             "repo": "onyx",
-            "stars": 31813
+            "stars": 31815,
+            "topics": [
+              "ai",
+              "ai-chat",
+              "chatgpt",
+              "chatui",
+              "enterprise-search",
+              "gen-ai",
+              "information-retrieval",
+              "llm",
+              "llm-ui",
+              "nextjs",
+              "python",
+              "rag",
+              "self-hosted",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -218,12 +392,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+            "homepage": "https://onyx.app",
             "id": 633262635,
             "language": "Python",
-            "last_commit": "2026-08-28T19:52:47Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:39:10Z",
+            "open_issues": 427,
             "owner": "onyx-dot-app",
             "repo": "onyx",
-            "stars": 31813
+            "stars": 31815,
+            "topics": [
+              "ai",
+              "ai-chat",
+              "chatgpt",
+              "chatui",
+              "enterprise-search",
+              "gen-ai",
+              "information-retrieval",
+              "llm",
+              "llm-ui",
+              "nextjs",
+              "python",
+              "rag",
+              "self-hosted",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -234,12 +428,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+            "homepage": "https://gptr.dev",
             "id": 639835356,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:34:56Z",
+            "open_issues": 58,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29187
+            "stars": 29190,
+            "topics": [
+              "agent",
+              "ai",
+              "automation",
+              "deepresearch",
+              "llms",
+              "mcp",
+              "mcp-server",
+              "python",
+              "research",
+              "search",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -250,12 +461,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+            "homepage": "https://gptr.dev",
             "id": 639835356,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:34:56Z",
+            "open_issues": 58,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29187
+            "stars": 29190,
+            "topics": [
+              "agent",
+              "ai",
+              "automation",
+              "deepresearch",
+              "llms",
+              "mcp",
+              "mcp-server",
+              "python",
+              "research",
+              "search",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -266,12 +494,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+            "homepage": "https://anythingllm.com",
             "id": 649170660,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T21:06:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:54:15Z",
+            "open_issues": 328,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65343
+            "stars": 65348,
+            "topics": [
+              "agent-computer",
+              "agent-harness",
+              "agent-orchestration",
+              "agentic-ai",
+              "ai-agents",
+              "computer-use",
+              "hermes-agent",
+              "llm",
+              "local-ai",
+              "localai",
+              "multimodal",
+              "no-code",
+              "open-claw",
+              "rag",
+              "self-hosted-ai",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -282,12 +532,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+            "homepage": "https://anythingllm.com",
             "id": 649170660,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T21:06:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:54:15Z",
+            "open_issues": 328,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65343
+            "stars": 65348,
+            "topics": [
+              "agent-computer",
+              "agent-harness",
+              "agent-orchestration",
+              "agentic-ai",
+              "ai-agents",
+              "computer-use",
+              "hermes-agent",
+              "llm",
+              "local-ai",
+              "localai",
+              "multimodal",
+              "no-code",
+              "open-claw",
+              "rag",
+              "self-hosted-ai",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -298,12 +570,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Newelle - Your Ultimate Virtual Assistant",
+            "homepage": "https://newelle.qsk.me",
             "id": 652134847,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T15:20:38Z",
+            "open_issues": 21,
             "owner": "qwersyk",
             "repo": "Newelle",
-            "stars": 1450
+            "stars": 1451,
+            "topics": [
+              "adwaita",
+              "ai",
+              "app",
+              "gnome",
+              "gtk",
+              "gtk4",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -314,12 +599,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Newelle - Your Ultimate Virtual Assistant",
+            "homepage": "https://newelle.qsk.me",
             "id": 652134847,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T15:20:38Z",
+            "open_issues": 21,
             "owner": "qwersyk",
             "repo": "Newelle",
-            "stars": 1450
+            "stars": 1451,
+            "topics": [
+              "adwaita",
+              "ai",
+              "app",
+              "gnome",
+              "gtk",
+              "gtk4",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -330,12 +628,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+            "homepage": "https://openwebui.com",
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-28T17:45:57Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:31:09Z",
+            "open_issues": 226,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150243
+            "stars": 150265,
+            "topics": [
+              "ai",
+              "llm",
+              "llm-ui",
+              "llm-webui",
+              "llms",
+              "mcp",
+              "ollama",
+              "ollama-webui",
+              "open-webui",
+              "openai",
+              "openapi",
+              "rag",
+              "self-hosted",
+              "ui",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -346,12 +665,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+            "homepage": "https://openwebui.com",
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-28T17:45:57Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:31:09Z",
+            "open_issues": 226,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150243
+            "stars": 150265,
+            "topics": [
+              "ai",
+              "llm",
+              "llm-ui",
+              "llm-webui",
+              "llms",
+              "mcp",
+              "ollama",
+              "ollama-webui",
+              "open-webui",
+              "openai",
+              "openapi",
+              "rag",
+              "self-hosted",
+              "ui",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -362,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Limopola is an AI platform that allows you to communicate with a wide range of AI models. It features autonomous agents, model-agnostic reasoning, and more.",
+            "homepage": null,
             "id": 703527746,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-13T09:01:36Z",
+            "open_issues": 0,
             "owner": "jacobbergdahl",
             "repo": "limopola",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -378,12 +723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Limopola is an AI platform that allows you to communicate with a wide range of AI models. It features autonomous agents, model-agnostic reasoning, and more.",
+            "homepage": null,
             "id": 703527746,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-13T09:01:36Z",
+            "open_issues": 0,
             "owner": "jacobbergdahl",
             "repo": "limopola",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -394,12 +744,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+            "homepage": "https://felladrin-minisearch.hf.space",
             "id": 704892113,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:39:22Z",
+            "open_issues": 0,
             "owner": "felladrin",
             "repo": "MiniSearch",
-            "stars": 584
+            "stars": 585,
+            "topics": [
+              "ai",
+              "ai-search-engine",
+              "artificial-intelligence",
+              "generative-ai",
+              "gpu-accelerated",
+              "information-retrieval",
+              "llm",
+              "llm-inference",
+              "metasearch",
+              "metasearch-engine",
+              "question-answering",
+              "rag",
+              "retrieval-augmented-generation",
+              "searxng",
+              "web-search",
+              "webapp",
+              "wllama"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -410,12 +783,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+            "homepage": "https://felladrin-minisearch.hf.space",
             "id": 704892113,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:39:22Z",
+            "open_issues": 0,
             "owner": "felladrin",
             "repo": "MiniSearch",
-            "stars": 584
+            "stars": 585,
+            "topics": [
+              "ai",
+              "ai-search-engine",
+              "artificial-intelligence",
+              "generative-ai",
+              "gpu-accelerated",
+              "information-retrieval",
+              "llm",
+              "llm-inference",
+              "metasearch",
+              "metasearch-engine",
+              "question-answering",
+              "rag",
+              "retrieval-augmented-generation",
+              "searxng",
+              "web-search",
+              "webapp",
+              "wllama"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -426,12 +822,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AIlice is a fully autonomous, general-purpose AI agent.",
+            "homepage": null,
             "id": 705433491,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-18T03:24:03Z",
+            "open_issues": 7,
             "owner": "myshell-ai",
             "repo": "AIlice",
-            "stars": 1412
+            "stars": 1412,
+            "topics": [
+              "agent",
+              "ai",
+              "llm",
+              "llm-agent"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -442,12 +848,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AIlice is a fully autonomous, general-purpose AI agent.",
+            "homepage": null,
             "id": 705433491,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-18T03:24:03Z",
+            "open_issues": 7,
             "owner": "myshell-ai",
             "repo": "AIlice",
-            "stars": 1412
+            "stars": 1412,
+            "topics": [
+              "agent",
+              "ai",
+              "llm",
+              "llm-agent"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -458,12 +874,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Building a quick conversation-based search demo with Lepton AI.",
+            "homepage": "https://search.lepton.run",
             "id": 747030811,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-02T03:48:24Z",
+            "open_issues": 44,
             "owner": "leptonai",
             "repo": "search_with_lepton",
-            "stars": 8070
+            "stars": 8070,
+            "topics": [
+              "ai",
+              "ai-applications",
+              "leptonai",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -474,12 +900,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Building a quick conversation-based search demo with Lepton AI.",
+            "homepage": "https://search.lepton.run",
             "id": 747030811,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-02T03:48:24Z",
+            "open_issues": 44,
             "owner": "leptonai",
             "repo": "search_with_lepton",
-            "stars": 8070
+            "stars": 8070,
+            "topics": [
+              "ai",
+              "ai-applications",
+              "leptonai",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -490,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered search engine. Open-source alternative to Perplexity.",
+            "homepage": "https://search.heurist.ai",
             "id": 750215826,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-13T18:46:52Z",
+            "open_issues": 0,
             "owner": "heurist-network",
             "repo": "gpt-search-web",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -506,12 +947,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered search engine. Open-source alternative to Perplexity.",
+            "homepage": "https://search.heurist.ai",
             "id": 750215826,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-13T18:46:52Z",
+            "open_issues": 0,
             "owner": "heurist-network",
             "repo": "gpt-search-web",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -522,12 +968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perplexity Inspired Answer Engine",
+            "homepage": "https://developersdigest.tech",
             "id": 768860702,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-29T12:29:50Z",
+            "open_issues": 44,
             "owner": "developersdigest",
             "repo": "llm-answer-engine",
-            "stars": 5035
+            "stars": 5035,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -538,12 +989,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perplexity Inspired Answer Engine",
+            "homepage": "https://developersdigest.tech",
             "id": 768860702,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-29T12:29:50Z",
+            "open_issues": 44,
             "owner": "developersdigest",
             "repo": "llm-answer-engine",
-            "stars": 5035
+            "stars": 5035,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -554,12 +1010,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。",
+            "homepage": "https://isou.chat",
             "id": 769134044,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-13T10:20:24Z",
+            "open_issues": 2,
             "owner": "yokingma",
             "repo": "SearChat",
-            "stars": 1058
+            "stars": 1058,
+            "topics": [
+              "ai",
+              "anthropic",
+              "deepresearch",
+              "gemini",
+              "llm",
+              "mcp",
+              "openai",
+              "rag",
+              "search",
+              "searxng",
+              "vertexai"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -570,12 +1043,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。",
+            "homepage": "https://isou.chat",
             "id": 769134044,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-13T10:20:24Z",
+            "open_issues": 2,
             "owner": "yokingma",
             "repo": "SearChat",
-            "stars": 1058
+            "stars": 1058,
+            "topics": [
+              "ai",
+              "anthropic",
+              "deepresearch",
+              "gemini",
+              "llm",
+              "mcp",
+              "openai",
+              "rag",
+              "search",
+              "searxng",
+              "vertexai"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -586,12 +1076,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.",
+            "homepage": null,
             "id": 776347356,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-24T09:58:01Z",
+            "open_issues": 58,
             "owner": "nilsherzig",
             "repo": "LLocalSearch",
-            "stars": 5948
+            "stars": 5948,
+            "topics": [
+              "llm",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -602,12 +1100,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.",
+            "homepage": null,
             "id": 776347356,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-24T09:58:01Z",
+            "open_issues": 58,
             "owner": "nilsherzig",
             "repo": "LLocalSearch",
-            "stars": 5948
+            "stars": 5948,
+            "topics": [
+              "llm",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -618,12 +1124,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.",
+            "homepage": null,
             "id": 776347356,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-24T09:58:01Z",
+            "open_issues": 58,
             "owner": "nilsherzig",
             "repo": "LLocalSearch",
-            "stars": 5948
+            "stars": 5948,
+            "topics": [
+              "llm",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -634,12 +1148,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered search engine with a generative UI",
+            "homepage": "https://chat.morphic.sh",
             "id": 782539945,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:58:11Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:23:48Z",
+            "open_issues": 56,
             "owner": "miurla",
             "repo": "morphic",
-            "stars": 9069
+            "stars": 9069,
+            "topics": [
+              "generative-ai",
+              "generative-ui",
+              "nextjs",
+              "ollama",
+              "react",
+              "searxng",
+              "shadcn-ui",
+              "tailwindcss",
+              "tavily",
+              "typescript",
+              "upstash",
+              "vercel-ai-sdk"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -650,12 +1182,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered search engine with a generative UI",
+            "homepage": "https://chat.morphic.sh",
             "id": 782539945,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:58:11Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:23:48Z",
+            "open_issues": 56,
             "owner": "miurla",
             "repo": "morphic",
-            "stars": 9069
+            "stars": 9069,
+            "topics": [
+              "generative-ai",
+              "generative-ui",
+              "nextjs",
+              "ollama",
+              "react",
+              "searxng",
+              "shadcn-ui",
+              "tailwindcss",
+              "tavily",
+              "typescript",
+              "upstash",
+              "vercel-ai-sdk"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -666,12 +1216,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vane is an AI-powered answering engine.",
+            "homepage": null,
             "id": 784181462,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-11T14:33:06Z",
+            "open_issues": 347,
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 36527
+            "stars": 36531,
+            "topics": [
+              "ai-agents",
+              "ai-search-engine",
+              "answering-engine",
+              "artificial-intelligence",
+              "llm",
+              "machine-learning",
+              "open-source-ai-search-engine",
+              "perplexica",
+              "rag",
+              "search-engine",
+              "searxng",
+              "searxng-copilot",
+              "self-hosted-ai",
+              "vane"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -682,12 +1252,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vane is an AI-powered answering engine.",
+            "homepage": null,
             "id": 784181462,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-11T14:33:06Z",
+            "open_issues": 347,
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 36527
+            "stars": 36531,
+            "topics": [
+              "ai-agents",
+              "ai-search-engine",
+              "answering-engine",
+              "artificial-intelligence",
+              "llm",
+              "machine-learning",
+              "open-source-ai-search-engine",
+              "perplexica",
+              "rag",
+              "search-engine",
+              "searxng",
+              "searxng-copilot",
+              "self-hosted-ai",
+              "vane"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -698,12 +1288,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vane is an AI-powered answering engine.",
+            "homepage": null,
             "id": 784181462,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-11T14:33:06Z",
+            "open_issues": 347,
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 36527
+            "stars": 36531,
+            "topics": [
+              "ai-agents",
+              "ai-search-engine",
+              "answering-engine",
+              "artificial-intelligence",
+              "llm",
+              "machine-learning",
+              "open-source-ai-search-engine",
+              "perplexica",
+              "rag",
+              "search-engine",
+              "searxng",
+              "searxng-copilot",
+              "self-hosted-ai",
+              "vane"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -714,12 +1324,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "homepage": "http://storm.genie.stanford.edu",
             "id": 776854298,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T18:07:21Z",
+            "open_issues": 107,
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31152
+            "stars": 31154,
+            "topics": [
+              "agentic-rag",
+              "deep-research",
+              "emnlp2024",
+              "knowledge-curation",
+              "large-language-models",
+              "naacl",
+              "nlp",
+              "report-generation",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -730,12 +1355,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "homepage": "http://storm.genie.stanford.edu",
             "id": 776854298,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T18:07:21Z",
+            "open_issues": 107,
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31152
+            "stars": 31154,
+            "topics": [
+              "agentic-rag",
+              "deep-research",
+              "emnlp2024",
+              "knowledge-curation",
+              "large-language-models",
+              "naacl",
+              "nlp",
+              "report-generation",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -746,12 +1386,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 AI search engine - self-host with local or cloud LLMs",
+            "homepage": "https://www.farfalle.dev/",
             "id": 792039881,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-27T07:52:45Z",
+            "open_issues": 52,
             "owner": "rashadphz",
             "repo": "farfalle",
-            "stars": 3543
+            "stars": 3543,
+            "topics": [
+              "fastapi",
+              "generative-ui",
+              "gpt-4o",
+              "groq",
+              "llm",
+              "nextjs",
+              "ollama",
+              "openai",
+              "perplexity",
+              "react",
+              "search-engine",
+              "shadcn-ui",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -762,12 +1421,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 AI search engine - self-host with local or cloud LLMs",
+            "homepage": "https://www.farfalle.dev/",
             "id": 792039881,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-27T07:52:45Z",
+            "open_issues": 52,
             "owner": "rashadphz",
             "repo": "farfalle",
-            "stars": 3543
+            "stars": 3543,
+            "topics": [
+              "fastapi",
+              "generative-ui",
+              "gpt-4o",
+              "groq",
+              "llm",
+              "nextjs",
+              "ollama",
+              "openai",
+              "perplexity",
+              "react",
+              "search-engine",
+              "shadcn-ui",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -778,12 +1456,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source Perplexity app.",
+            "homepage": "https://philfung.github.io/perplexed",
             "id": 797528885,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-19T01:45:37Z",
+            "open_issues": 0,
             "owner": "philfung",
             "repo": "perplexed",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "ai-search-engine",
+              "groq",
+              "llm",
+              "perplexity",
+              "perplexity-ai",
+              "search-engine",
+              "websearch",
+              "websearch-agent"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -794,12 +1486,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source Perplexity app.",
+            "homepage": "https://philfung.github.io/perplexed",
             "id": 797528885,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-19T01:45:37Z",
+            "open_issues": 0,
             "owner": "philfung",
             "repo": "perplexed",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "ai-search-engine",
+              "groq",
+              "llm",
+              "perplexity",
+              "perplexity-ai",
+              "search-engine",
+              "websearch",
+              "websearch-agent"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -810,12 +1516,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+            "homepage": "https://cherryai.com",
             "id": 805155266,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:32:56Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:00:21Z",
+            "open_issues": 1456,
             "owner": "CherryHQ",
             "repo": "cherry-studio",
-            "stars": 51203
+            "stars": 51207,
+            "topics": [
+              "agent-skills",
+              "ai-agent",
+              "claude-code",
+              "codex",
+              "deepseek",
+              "deepseek-harness",
+              "hermes-agent",
+              "skills",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -826,12 +1547,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+            "homepage": "https://cherryai.com",
             "id": 805155266,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:32:56Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:00:21Z",
+            "open_issues": 1456,
             "owner": "CherryHQ",
             "repo": "cherry-studio",
-            "stars": 51203
+            "stars": 51207,
+            "topics": [
+              "agent-skills",
+              "ai-agent",
+              "claude-code",
+              "codex",
+              "deepseek",
+              "deepseek-harness",
+              "hermes-agent",
+              "skills",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -842,12 +1578,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.",
+            "homepage": "https://www.llocal.in",
             "id": 802186038,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-08T16:51:03Z",
+            "open_issues": 10,
             "owner": "kartikm7",
             "repo": "llocal",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "ai",
+              "desktop",
+              "electron",
+              "llm",
+              "llocal",
+              "ollama",
+              "open-source",
+              "self-hosted",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -858,12 +1609,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.",
+            "homepage": "https://www.llocal.in",
             "id": 802186038,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-08T16:51:03Z",
+            "open_issues": 10,
             "owner": "kartikm7",
             "repo": "llocal",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "ai",
+              "desktop",
+              "electron",
+              "llm",
+              "llocal",
+              "ollama",
+              "open-source",
+              "self-hosted",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -874,12 +1640,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source alternative to Perplexity AI with ability to run locally",
+            "homepage": "https://fyin.app/",
             "id": 802260733,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2024-10-09T13:41:50Z",
+            "open_issues": 8,
             "owner": "shadowfax92",
             "repo": "Fyin",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "llm",
+              "ollama",
+              "openai",
+              "rag",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -890,12 +1667,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source alternative to Perplexity AI with ability to run locally",
+            "homepage": "https://fyin.app/",
             "id": 802260733,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2024-10-09T13:41:50Z",
+            "open_issues": 8,
             "owner": "shadowfax92",
             "repo": "Fyin",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "llm",
+              "ollama",
+              "openai",
+              "rag",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -906,12 +1694,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI search engine inspired by Perplexity",
+            "homepage": "https://www.turboseek.io/",
             "id": 806060651,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-12T19:12:17Z",
+            "open_issues": 8,
             "owner": "Nutlope",
             "repo": "turboseek",
-            "stars": 1656
+            "stars": 1656,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -922,12 +1715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI search engine inspired by Perplexity",
+            "homepage": "https://www.turboseek.io/",
             "id": 806060651,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-12T19:12:17Z",
+            "open_issues": 8,
             "owner": "Nutlope",
             "repo": "turboseek",
-            "stars": 1656
+            "stars": 1656,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -938,12 +1736,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 805415137,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-31T09:45:59Z",
+            "open_issues": 0,
             "owner": "vincentdnl",
             "repo": "operativeai",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -954,12 +1757,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 805415137,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-31T09:45:59Z",
+            "open_issues": 0,
             "owner": "vincentdnl",
             "repo": "operativeai",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -970,12 +1778,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 805415137,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-31T09:45:59Z",
+            "open_issues": 0,
             "owner": "vincentdnl",
             "repo": "operativeai",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -986,12 +1799,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another open source Perplexity",
+            "homepage": "https://www.heysensei.app",
             "id": 816422413,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-20T03:59:33Z",
+            "open_issues": 3,
             "owner": "jjleng",
             "repo": "sensei",
-            "stars": 464
+            "stars": 464,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1002,12 +1820,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another open source Perplexity",
+            "homepage": "https://www.heysensei.app",
             "id": 816422413,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-20T03:59:33Z",
+            "open_issues": 3,
             "owner": "jjleng",
             "repo": "sensei",
-            "stars": 464
+            "stars": 464,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1018,12 +1841,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Own your AI, search the web with it🌐😎",
+            "homepage": "https://astrabert.github.io/PrAIvateSearch/",
             "id": 834597906,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-14T10:59:01Z",
+            "open_issues": 2,
             "owner": "AstraBert",
             "repo": "PrAIvateSearch",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "ai",
+              "docker",
+              "gguf",
+              "llamacpp",
+              "llm",
+              "local-search-engine",
+              "open-source",
+              "phi-3-mini",
+              "streamlit",
+              "web-search-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1034,12 +1873,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Own your AI, search the web with it🌐😎",
+            "homepage": "https://astrabert.github.io/PrAIvateSearch/",
             "id": 834597906,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-14T10:59:01Z",
+            "open_issues": 2,
             "owner": "AstraBert",
             "repo": "PrAIvateSearch",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "ai",
+              "docker",
+              "gguf",
+              "llamacpp",
+              "llm",
+              "local-search-engine",
+              "open-source",
+              "phi-3-mini",
+              "streamlit",
+              "web-search-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1050,12 +1905,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+            "homepage": null,
             "id": 834688418,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-04T10:06:45Z",
+            "open_issues": 57,
             "owner": "InternLM",
             "repo": "MindSearch",
-            "stars": 6919
+            "stars": 6919,
+            "topics": [
+              "ai-search-engine",
+              "gpt",
+              "llm",
+              "llms",
+              "multi-agent-systems",
+              "perplexity-ai",
+              "search",
+              "searchgpt",
+              "transformer",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1066,12 +1937,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+            "homepage": null,
             "id": 834688418,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-04T10:06:45Z",
+            "open_issues": 57,
             "owner": "InternLM",
             "repo": "MindSearch",
-            "stars": 6919
+            "stars": 6919,
+            "topics": [
+              "ai-search-engine",
+              "gpt",
+              "llm",
+              "llms",
+              "multi-agent-systems",
+              "perplexity-ai",
+              "search",
+              "searchgpt",
+              "transformer",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1082,12 +1969,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9",
+            "homepage": "https://www.surfsense.com",
             "id": 835975784,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T08:02:56Z",
+            "open_issues": 122,
             "owner": "MODSetter",
             "repo": "SurfSense",
-            "stars": 16029
+            "stars": 16030,
+            "topics": [
+              "agent",
+              "agents",
+              "ai",
+              "fastapi",
+              "langchain",
+              "langgraph",
+              "nextjs",
+              "notebooklm",
+              "notebooklm-alternative",
+              "ollama",
+              "python",
+              "rag",
+              "typescript",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1098,12 +2005,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9",
+            "homepage": "https://www.surfsense.com",
             "id": 835975784,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T08:02:56Z",
+            "open_issues": 122,
             "owner": "MODSetter",
             "repo": "SurfSense",
-            "stars": 16029
+            "stars": 16030,
+            "topics": [
+              "agent",
+              "agents",
+              "ai",
+              "fastapi",
+              "langchain",
+              "langgraph",
+              "nextjs",
+              "notebooklm",
+              "notebooklm-alternative",
+              "ollama",
+              "python",
+              "rag",
+              "typescript",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1114,12 +2041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "openperplex is an opensource AI search engine",
+            "homepage": "https://openperplex.com/",
             "id": 837586322,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-04T22:50:24Z",
+            "open_issues": 4,
             "owner": "YassKhazzan",
             "repo": "openperplex_backend_os",
-            "stars": 892
+            "stars": 892,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1130,12 +2062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "openperplex is an opensource AI search engine",
+            "homepage": "https://openperplex.com/",
             "id": 837586322,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-04T22:50:24Z",
+            "open_issues": 4,
             "owner": "YassKhazzan",
             "repo": "openperplex_backend_os",
-            "stars": 892
+            "stars": 892,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1146,12 +2083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM powered local Search Engine",
+            "homepage": null,
             "id": 838657857,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-30T03:46:27Z",
+            "open_issues": 0,
             "owner": "jayshah5696",
             "repo": "pravah",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1162,12 +2104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM powered local Search Engine",
+            "homepage": null,
             "id": 838657857,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-30T03:46:27Z",
+            "open_issues": 0,
             "owner": "jayshah5696",
             "repo": "pravah",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1178,12 +2125,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!",
+            "homepage": "https://scira.ai",
             "id": 839372398,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-12T22:28:59Z",
+            "open_issues": 25,
             "owner": "zaidmukaddam",
             "repo": "scira",
-            "stars": 11851
+            "stars": 11851,
+            "topics": [
+              "ai-search-engine",
+              "minimalistic-ai-search-engine",
+              "scira",
+              "scira-ai",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1194,12 +2152,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!",
+            "homepage": "https://scira.ai",
             "id": 839372398,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-12T22:28:59Z",
+            "open_issues": 25,
             "owner": "zaidmukaddam",
             "repo": "scira",
-            "stars": 11851
+            "stars": 11851,
+            "topics": [
+              "ai-search-engine",
+              "minimalistic-ai-search-engine",
+              "scira",
+              "scira-ai",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1210,12 +2179,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LocalPlexity is a lite version of Perplexity aimed at 100% privacy and openness. Everything is done locally, in your browser, from searching the web to distilling a response for your question.",
+            "homepage": "https://localplexity.pages.dev/",
             "id": 839873776,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-08-12T12:29:43Z",
+            "open_issues": 0,
             "owner": "legraphista",
             "repo": "localplexity",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "llm",
+              "perplexity",
+              "search",
+              "web",
+              "web-llm",
+              "webgpu"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1226,12 +2207,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LocalPlexity is a lite version of Perplexity aimed at 100% privacy and openness. Everything is done locally, in your browser, from searching the web to distilling a response for your question.",
+            "homepage": "https://localplexity.pages.dev/",
             "id": 839873776,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-08-12T12:29:43Z",
+            "open_issues": 0,
             "owner": "legraphista",
             "repo": "localplexity",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "llm",
+              "perplexity",
+              "search",
+              "web",
+              "web-llm",
+              "webgpu"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1242,12 +2235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My version of an LLM Websearch Agent using a local SearXNG server because SearXNG is great.",
+            "homepage": null,
             "id": 850734119,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-27T23:35:55Z",
+            "open_issues": 0,
             "owner": "Jay4242",
             "repo": "llm-websearch",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1258,12 +2256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My version of an LLM Websearch Agent using a local SearXNG server because SearXNG is great.",
+            "homepage": null,
             "id": 850734119,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-27T23:35:55Z",
+            "open_issues": 0,
             "owner": "Jay4242",
             "repo": "llm-websearch",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1274,12 +2277,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a SearXNG frontend built natively for Cloudflare Pages using Hono and React with shadcn/ui",
+            "homepage": null,
             "id": 853615955,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-14T14:14:56Z",
+            "open_issues": 0,
             "owner": "radityaharya",
             "repo": "looq",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "hono",
+              "searxng",
+              "shadcn-ui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1290,12 +2302,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a SearXNG frontend built natively for Cloudflare Pages using Hono and React with shadcn/ui",
+            "homepage": null,
             "id": 853615955,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-14T14:14:56Z",
+            "open_issues": 0,
             "owner": "radityaharya",
             "repo": "looq",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "hono",
+              "searxng",
+              "shadcn-ui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1306,12 +2327,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Search engine",
+            "homepage": "https://searchwithalisia.netlify.app/",
             "id": 851461757,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-24T14:29:35Z",
+            "open_issues": 0,
             "owner": "shivvamm",
             "repo": "Search-With-Aisia",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ai",
+              "beautifulsoup4",
+              "duckduckgo",
+              "embedded",
+              "fastapi",
+              "llama3",
+              "llm",
+              "ml",
+              "python",
+              "rag",
+              "react",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1322,12 +2361,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Search engine",
+            "homepage": "https://searchwithalisia.netlify.app/",
             "id": 851461757,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-24T14:29:35Z",
+            "open_issues": 0,
             "owner": "shivvamm",
             "repo": "Search-With-Aisia",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ai",
+              "beautifulsoup4",
+              "duckduckgo",
+              "embedded",
+              "fastapi",
+              "llama3",
+              "llm",
+              "ml",
+              "python",
+              "rag",
+              "react",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1338,12 +2395,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.",
+            "homepage": "https://johnbean393.github.io/Sidekick/",
             "id": 869881190,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-05-24T05:34:09Z",
+            "open_issues": 36,
             "owner": "johnbean393",
             "repo": "Sidekick",
-            "stars": 3314
+            "stars": 3314,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai",
+              "ai-agents",
+              "aichat",
+              "chatbot",
+              "deep-research",
+              "deepseek",
+              "deepseek-r1",
+              "gpt-oss",
+              "llama",
+              "llama4",
+              "llm",
+              "macos",
+              "qwen",
+              "qwen3",
+              "rag",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1354,12 +2436,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.",
+            "homepage": "https://johnbean393.github.io/Sidekick/",
             "id": 869881190,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-05-24T05:34:09Z",
+            "open_issues": 36,
             "owner": "johnbean393",
             "repo": "Sidekick",
-            "stars": 3314
+            "stars": 3314,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai",
+              "ai-agents",
+              "aichat",
+              "chatbot",
+              "deep-research",
+              "deepseek",
+              "deepseek-r1",
+              "gpt-oss",
+              "llama",
+              "llama4",
+              "llm",
+              "macos",
+              "qwen",
+              "qwen3",
+              "rag",
+              "swift",
+              "swiftui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1370,12 +2477,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross platform App that gives you the best UX to run models locally or remotely on your own hardware",
+            "homepage": null,
             "id": 867369132,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-22T05:41:34Z",
+            "open_issues": 3,
             "owner": "navedmerchant",
             "repo": "MyDeviceAI",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1386,12 +2498,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross platform App that gives you the best UX to run models locally or remotely on your own hardware",
+            "homepage": null,
             "id": 867369132,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-22T05:41:34Z",
+            "open_issues": 3,
             "owner": "navedmerchant",
             "repo": "MyDeviceAI",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1402,12 +2519,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Python program to implement the search-extract-summarize flow.",
+            "homepage": null,
             "id": 873961862,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-17T05:19:50Z",
+            "open_issues": 0,
             "owner": "pengfeng",
             "repo": "ask.py",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "agent",
+              "ai-search",
+              "llm",
+              "perplexity",
+              "python",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1418,12 +2547,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Python program to implement the search-extract-summarize flow.",
+            "homepage": null,
             "id": 873961862,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-17T05:19:50Z",
+            "open_issues": 0,
             "owner": "pengfeng",
             "repo": "ask.py",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "agent",
+              "ai-search",
+              "llm",
+              "perplexity",
+              "python",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1434,12 +2575,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines",
+            "homepage": "https://cnzzx.github.io/VSA/",
             "id": 877923596,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-06T05:05:24Z",
+            "open_issues": 3,
             "owner": "cnzzx",
             "repo": "VSA",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "ai-search-engine",
+              "artificial-intelligence",
+              "deep-learning",
+              "large-language-model",
+              "search",
+              "vision-language-model",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1450,12 +2604,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines",
+            "homepage": "https://cnzzx.github.io/VSA/",
             "id": 877923596,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-06T05:05:24Z",
+            "open_issues": 3,
             "owner": "cnzzx",
             "repo": "VSA",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "ai-search-engine",
+              "artificial-intelligence",
+              "deep-learning",
+              "large-language-model",
+              "search",
+              "vision-language-model",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1466,12 +2633,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MemFree - Hybrid AI Search Engine & AI Page Generator",
+            "homepage": "https://www.memfree.me?ref=github.com",
             "id": 815403287,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-06T12:02:53Z",
+            "open_issues": 18,
             "owner": "memfreeme",
             "repo": "memfree",
-            "stars": 1506
+            "stars": 1506,
+            "topics": [
+              "ai",
+              "ai-search",
+              "ai-search-engine",
+              "devfast",
+              "generate-ui",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hybrid-ai-search",
+              "page-generator",
+              "react",
+              "search-engine",
+              "serverless-vector",
+              "shadcn-ui",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1482,12 +2669,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MemFree - Hybrid AI Search Engine & AI Page Generator",
+            "homepage": "https://www.memfree.me?ref=github.com",
             "id": 815403287,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-06T12:02:53Z",
+            "open_issues": 18,
             "owner": "memfreeme",
             "repo": "memfree",
-            "stars": 1506
+            "stars": 1506,
+            "topics": [
+              "ai",
+              "ai-search",
+              "ai-search-engine",
+              "devfast",
+              "generate-ui",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hybrid-ai-search",
+              "page-generator",
+              "react",
+              "search-engine",
+              "serverless-vector",
+              "shadcn-ui",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1498,12 +2705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search the web and your self-hosted apps using local AI agents.",
+            "homepage": null,
             "id": 883152473,
             "language": "Svelte",
+            "license": "AGPL-3.0",
             "last_commit": "2024-11-17T21:26:34Z",
+            "open_issues": 16,
             "owner": "brunostjohn",
             "repo": "perplexideez",
-            "stars": 574
+            "stars": 574,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1514,12 +2726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search the web and your self-hosted apps using local AI agents.",
+            "homepage": null,
             "id": 883152473,
             "language": "Svelte",
+            "license": "AGPL-3.0",
             "last_commit": "2024-11-17T21:26:34Z",
+            "open_issues": 16,
             "owner": "brunostjohn",
             "repo": "perplexideez",
-            "stars": 574
+            "stars": 574,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1530,12 +2747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chat WebUI is an easy-to-use user interface for interacting with AI, and it comes with multiple useful built-in tools such as web search and youtube summarizer.",
+            "homepage": null,
             "id": 885098527,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-10T12:48:38Z",
+            "open_issues": 4,
             "owner": "Toy-97",
             "repo": "Chat-WebUI",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1546,12 +2768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chat WebUI is an easy-to-use user interface for interacting with AI, and it comes with multiple useful built-in tools such as web search and youtube summarizer.",
+            "homepage": null,
             "id": 885098527,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-10T12:48:38Z",
+            "open_issues": 4,
             "owner": "Toy-97",
             "repo": "Chat-WebUI",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1562,12 +2789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!",
+            "homepage": null,
             "id": 891365119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-14T06:50:14Z",
+            "open_issues": 11,
             "owner": "TheBlewish",
             "repo": "Automated-AI-Web-Researcher-Ollama",
-            "stars": 3012
+            "stars": 3012,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1578,12 +2810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you!",
+            "homepage": null,
             "id": 891365119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-14T06:50:14Z",
+            "open_issues": 11,
             "owner": "TheBlewish",
             "repo": "Automated-AI-Web-Researcher-Ollama",
-            "stars": 3012
+            "stars": 3012,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1594,12 +2831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 898961424,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-24T09:55:06Z",
+            "open_issues": 0,
             "owner": "sooti",
             "repo": "sootiAI",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1610,12 +2852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 898961424,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-24T09:55:06Z",
+            "open_issues": 0,
             "owner": "sooti",
             "repo": "sootiAI",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1626,12 +2873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully local web research and report writing assistant",
+            "homepage": null,
             "id": 898736877,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T02:42:55Z",
+            "open_issues": 44,
             "owner": "langchain-ai",
             "repo": "local-deep-researcher",
-            "stars": 9321
+            "stars": 9321,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1642,12 +2894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully local web research and report writing assistant",
+            "homepage": null,
             "id": 898736877,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T02:42:55Z",
+            "open_issues": 44,
             "owner": "langchain-ai",
             "repo": "local-deep-researcher",
-            "stars": 9321
+            "stars": 9321,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1658,12 +2915,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RAGify is designed to enhance search capabilities using Retrieval-Augmented Generation (RAG). By combining traditional web search with AI-driven contextual understanding, RAGify retrieves relevant information from the web and generates concise, human-readable summaries.",
+            "homepage": null,
             "id": 902981732,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-01T11:42:47Z",
+            "open_issues": 0,
             "owner": "pcastiglione99",
             "repo": "RAGify-Search",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "langchain",
+              "llm",
+              "ollama",
+              "python",
+              "rag",
+              "streamlit"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1674,12 +2943,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RAGify is designed to enhance search capabilities using Retrieval-Augmented Generation (RAG). By combining traditional web search with AI-driven contextual understanding, RAGify retrieves relevant information from the web and generates concise, human-readable summaries.",
+            "homepage": null,
             "id": 902981732,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-01T11:42:47Z",
+            "open_issues": 0,
             "owner": "pcastiglione99",
             "repo": "RAGify-Search",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "langchain",
+              "llm",
+              "ollama",
+              "python",
+              "rag",
+              "streamlit"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1690,12 +2971,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Search tools.",
+            "homepage": null,
             "id": 905538292,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-19T15:19:45Z",
+            "open_issues": 10,
             "owner": "leettools-dev",
             "repo": "leettools",
-            "stars": 343
+            "stars": 343,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1706,12 +2992,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Search tools.",
+            "homepage": null,
             "id": 905538292,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-19T15:19:45Z",
+            "open_issues": 10,
             "owner": "leettools-dev",
             "repo": "leettools",
-            "stars": 343
+            "stars": 343,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1722,12 +3013,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A virtual employee that scours the web, organizes data, and delivers results in a spreadsheet",
+            "homepage": "https://scourhead.com",
             "id": 906750640,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-13T00:07:54Z",
+            "open_issues": 12,
             "owner": "zachrattner",
             "repo": "scourhead",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1738,12 +3034,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A virtual employee that scours the web, organizes data, and delivers results in a spreadsheet",
+            "homepage": "https://scourhead.com",
             "id": 906750640,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-13T00:07:54Z",
+            "open_issues": 12,
             "owner": "zachrattner",
             "repo": "scourhead",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1754,12 +3055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.",
+            "homepage": null,
             "id": 916376760,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-15T23:40:14Z",
+            "open_issues": 9,
             "owner": "hrithikkoduri",
             "repo": "WebRover",
-            "stars": 1022
+            "stars": 1022,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1770,12 +3076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.",
+            "homepage": null,
             "id": 916376760,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-15T23:40:14Z",
+            "open_issues": 9,
             "owner": "hrithikkoduri",
             "repo": "WebRover",
-            "stars": 1022
+            "stars": 1022,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1786,12 +3097,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)",
+            "homepage": "https://search.jina.ai",
             "id": 922423439,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-01T20:59:41Z",
+            "open_issues": 56,
             "owner": "jina-ai",
             "repo": "node-DeepResearch",
-            "stars": 5225
+            "stars": 5225,
+            "topics": [
+              "deepresearch",
+              "deepsearch"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1802,12 +3121,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)",
+            "homepage": "https://search.jina.ai",
             "id": 922423439,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-01T20:59:41Z",
+            "open_issues": 56,
             "owner": "jina-ai",
             "repo": "node-DeepResearch",
-            "stars": 5225
+            "stars": 5225,
+            "topics": [
+              "deepresearch",
+              "deepsearch"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1818,12 +3145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl",
+            "homepage": "https://firecrawl.dev/extract",
             "id": 926639724,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-07T15:38:28Z",
+            "open_issues": 45,
             "owner": "nickscamara",
             "repo": "open-deep-research",
-            "stars": 6282
+            "stars": 6282,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1834,12 +3166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl",
+            "homepage": "https://firecrawl.dev/extract",
             "id": 926639724,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-07T15:38:28Z",
+            "open_issues": 45,
             "owner": "nickscamara",
             "repo": "open-deep-research",
-            "stars": 6282
+            "stars": 6282,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1850,12 +3187,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+            "homepage": null,
             "id": 929868765,
             "language": "Python",
-            "last_commit": "2026-08-28T16:28:16Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:58:44Z",
+            "open_issues": 627,
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 9001
+            "stars": 9002,
+            "topics": [
+              "academia",
+              "anthropic",
+              "arxiv",
+              "brave",
+              "deep-research",
+              "encryption",
+              "home-automation",
+              "homeserver",
+              "local",
+              "local-deep-research",
+              "local-llm",
+              "mistral",
+              "ollama",
+              "openai",
+              "pubmed",
+              "research",
+              "research-tool",
+              "retrieval-augmented-generation",
+              "searxng",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1866,12 +3229,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+            "homepage": null,
             "id": 929868765,
             "language": "Python",
-            "last_commit": "2026-08-28T16:28:16Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:58:44Z",
+            "open_issues": 627,
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 9001
+            "stars": 9002,
+            "topics": [
+              "academia",
+              "anthropic",
+              "arxiv",
+              "brave",
+              "deep-research",
+              "encryption",
+              "home-automation",
+              "homeserver",
+              "local",
+              "local-deep-research",
+              "local-llm",
+              "mistral",
+              "ollama",
+              "openai",
+              "pubmed",
+              "research",
+              "research-tool",
+              "retrieval-augmented-generation",
+              "searxng",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1882,12 +3271,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local LLM Powered Recursive Search & Smart Knowledge Explorer",
+            "homepage": null,
             "id": 929918364,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T18:42:27Z",
+            "open_issues": 7,
             "owner": "masterFoad",
             "repo": "NanoSage",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "ai-researcher",
+              "algorithms",
+              "cli",
+              "gemma",
+              "knowledge-base",
+              "local",
+              "monte-carlo-search",
+              "nanosage",
+              "ollama",
+              "python3",
+              "rag",
+              "recursive-search",
+              "report",
+              "small-language-models"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1898,12 +3307,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local LLM Powered Recursive Search & Smart Knowledge Explorer",
+            "homepage": null,
             "id": 929918364,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T18:42:27Z",
+            "open_issues": 7,
             "owner": "masterFoad",
             "repo": "NanoSage",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "ai-researcher",
+              "algorithms",
+              "cli",
+              "gemma",
+              "knowledge-base",
+              "local",
+              "monte-carlo-search",
+              "nanosage",
+              "ollama",
+              "python3",
+              "rag",
+              "recursive-search",
+              "report",
+              "small-language-models"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1914,12 +3343,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Rabbitholes Ai ",
+            "homepage": "https://rabbitholes.dojoma.ai",
             "id": 932854922,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-29T02:17:29Z",
+            "open_issues": 2,
             "owner": "AsyncFuncAI",
             "repo": "rabbitholes",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "ai",
+              "gemini-ai",
+              "llm",
+              "react",
+              "tavily"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1930,12 +3370,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Rabbitholes Ai ",
+            "homepage": "https://rabbitholes.dojoma.ai",
             "id": 932854922,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-29T02:17:29Z",
+            "open_issues": 2,
             "owner": "AsyncFuncAI",
             "repo": "rabbitholes",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "ai",
+              "gemini-ai",
+              "llm",
+              "react",
+              "tavily"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1946,12 +3397,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐬DeepChat - A smart assistant that connects powerful AI to your personal world",
+            "homepage": "https://deepchat.thinkinai.xyz/",
             "id": 932490533,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:36:56Z",
+            "open_issues": 7,
             "owner": "ThinkInAIXYZ",
             "repo": "deepchat",
-            "stars": 6292
+            "stars": 6292,
+            "topics": [
+              "agent",
+              "agent-skills",
+              "ai",
+              "ai-assistant",
+              "ai-sdk",
+              "chatgpt",
+              "claude",
+              "cross-platform",
+              "deepseek",
+              "electron",
+              "gemini",
+              "harness-design",
+              "hermes-agent",
+              "llm-client",
+              "mcp",
+              "mcp-client",
+              "openai-client",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1962,12 +3437,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐬DeepChat - A smart assistant that connects powerful AI to your personal world",
+            "homepage": "https://deepchat.thinkinai.xyz/",
             "id": 932490533,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:36:56Z",
+            "open_issues": 7,
             "owner": "ThinkInAIXYZ",
             "repo": "deepchat",
-            "stars": 6292
+            "stars": 6292,
+            "topics": [
+              "agent",
+              "agent-skills",
+              "ai",
+              "ai-assistant",
+              "ai-sdk",
+              "chatgpt",
+              "claude",
+              "cross-platform",
+              "deepseek",
+              "electron",
+              "gemini",
+              "harness-design",
+              "hermes-agent",
+              "llm-client",
+              "mcp",
+              "mcp-client",
+              "openai-client",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1978,12 +3477,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.",
+            "homepage": "https://research.u14.app",
             "id": 936974548,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-18T14:43:29Z",
+            "open_issues": 37,
             "owner": "u14app",
             "repo": "deep-research",
-            "stars": 4685
+            "stars": 4685,
+            "topics": [
+              "anthropic",
+              "deep-research",
+              "deep-research-api",
+              "deepresearch",
+              "deepseek",
+              "gemini",
+              "grok",
+              "mcp-server",
+              "ollama",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -1994,12 +3509,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.",
+            "homepage": "https://research.u14.app",
             "id": 936974548,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-18T14:43:29Z",
+            "open_issues": 37,
             "owner": "u14app",
             "repo": "deep-research",
-            "stars": 4685
+            "stars": 4685,
+            "topics": [
+              "anthropic",
+              "deep-research",
+              "deep-research-api",
+              "deepresearch",
+              "deepseek",
+              "gemini",
+              "grok",
+              "mcp-server",
+              "ollama",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2010,12 +3541,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn topics into essays in seconds!",
+            "homepage": "https://llamaresearcher.com",
             "id": 961592467,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-06T09:13:01Z",
+            "open_issues": 1,
             "owner": "AstraBert",
             "repo": "llama-4-researcher",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "agentic-ai",
+              "deepsearch",
+              "essay-writing",
+              "groq",
+              "linkup",
+              "llama-4",
+              "llama-index",
+              "research",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2026,12 +3572,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn topics into essays in seconds!",
+            "homepage": "https://llamaresearcher.com",
             "id": 961592467,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-06T09:13:01Z",
+            "open_issues": 1,
             "owner": "AstraBert",
             "repo": "llama-4-researcher",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "agentic-ai",
+              "deepsearch",
+              "essay-writing",
+              "groq",
+              "linkup",
+              "llama-4",
+              "llama-index",
+              "research",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2042,12 +3603,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+            "homepage": "https://deerflow.tech",
             "id": 979115477,
             "language": "Python",
-            "last_commit": "2026-08-28T14:24:10Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:07:16Z",
+            "open_issues": 911,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 81056
+            "stars": 81064,
+            "topics": [
+              "agent",
+              "agentic",
+              "agentic-framework",
+              "agentic-workflow",
+              "ai",
+              "ai-agents",
+              "deep-research",
+              "harness",
+              "langchain",
+              "langgraph",
+              "langmanus",
+              "llm",
+              "multi-agent",
+              "nodejs",
+              "podcast",
+              "python",
+              "superagent",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2058,12 +3643,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+            "homepage": "https://deerflow.tech",
             "id": 979115477,
             "language": "Python",
-            "last_commit": "2026-08-28T14:24:10Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:07:16Z",
+            "open_issues": 911,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 81056
+            "stars": 81064,
+            "topics": [
+              "agent",
+              "agentic",
+              "agentic-framework",
+              "agentic-workflow",
+              "ai",
+              "ai-agents",
+              "deep-research",
+              "harness",
+              "langchain",
+              "langgraph",
+              "langmanus",
+              "llm",
+              "multi-agent",
+              "nodejs",
+              "podcast",
+              "python",
+              "superagent",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2074,12 +3683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich MCP-powered AI chatbot with multi-model support and advanced tools.",
+            "homepage": "https://www.chatlima.com/",
             "id": 973019360,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T02:12:07Z",
+            "open_issues": 0,
             "owner": "brooksy4503",
             "repo": "chatlima",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2090,12 +3704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich MCP-powered AI chatbot with multi-model support and advanced tools.",
+            "homepage": "https://www.chatlima.com/",
             "id": 973019360,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T02:12:07Z",
+            "open_issues": 0,
             "owner": "brooksy4503",
             "repo": "chatlima",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2106,12 +3725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM search engine faster than perplexity!",
+            "homepage": null,
             "id": 981006904,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-23T08:31:55Z",
+            "open_issues": 19,
             "owner": "JasonHonKL",
             "repo": "spy-search",
-            "stars": 387
+            "stars": 387,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2122,12 +3746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM search engine faster than perplexity!",
+            "homepage": null,
             "id": 981006904,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-23T08:31:55Z",
+            "open_issues": 19,
             "owner": "JasonHonKL",
             "repo": "spy-search",
-            "stars": 387
+            "stars": 387,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2138,12 +3767,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+            "homepage": "https://ai.google.dev/gemini-api/docs/google-search",
             "id": 988337333,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-14T05:25:52Z",
+            "open_issues": 77,
             "owner": "google-gemini",
             "repo": "gemini-fullstack-langgraph-quickstart",
-            "stars": 18322
+            "stars": 18322,
+            "topics": [
+              "gemini",
+              "gemini-api"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2154,12 +3791,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+            "homepage": "https://ai.google.dev/gemini-api/docs/google-search",
             "id": 988337333,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-14T05:25:52Z",
+            "open_issues": 77,
             "owner": "google-gemini",
             "repo": "gemini-fullstack-langgraph-quickstart",
-            "stars": 18322
+            "stars": 18322,
+            "topics": [
+              "gemini",
+              "gemini-api"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2170,12 +3815,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ubiquité : Open-source Perplexity clone with multi-LLM support and KaTeX math rendering.",
+            "homepage": null,
             "id": 1069364213,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-11-14T22:34:05Z",
+            "open_issues": 0,
             "owner": "edoigtrd",
             "repo": "ubiquite",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "ai",
+              "katex",
+              "katex-support",
+              "langchain",
+              "llm",
+              "perplexity",
+              "perplexity-ai",
+              "searxng"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2186,12 +3845,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ubiquité : Open-source Perplexity clone with multi-LLM support and KaTeX math rendering.",
+            "homepage": null,
             "id": 1069364213,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-11-14T22:34:05Z",
+            "open_issues": 0,
             "owner": "edoigtrd",
             "repo": "ubiquite",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "ai",
+              "katex",
+              "katex-support",
+              "langchain",
+              "llm",
+              "perplexity",
+              "perplexity-ai",
+              "searxng"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2202,12 +3875,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://lorph-576d0.web.app",
             "id": 1150751685,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T15:02:59Z",
+            "open_issues": 0,
             "owner": "AL-MARID",
             "repo": "Lorph",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "ai-chat",
+              "deepseek-v3-1",
+              "file-processing-ai",
+              "glm-4-6",
+              "glm-4-7",
+              "gpt-oss-120b",
+              "gpt-oss-20b",
+              "kimi-k2",
+              "llm-interface",
+              "lorph",
+              "lorph-ai",
+              "lorph-ai-chat",
+              "minimax-m2",
+              "mistral-large-3",
+              "ocr-chat-react-ai",
+              "ollama-cloud",
+              "qwen3-coder",
+              "typescript-chat",
+              "web-search-ai"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2218,12 +3916,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://lorph-576d0.web.app",
             "id": 1150751685,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T15:02:59Z",
+            "open_issues": 0,
             "owner": "AL-MARID",
             "repo": "Lorph",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "ai-chat",
+              "deepseek-v3-1",
+              "file-processing-ai",
+              "glm-4-6",
+              "glm-4-7",
+              "gpt-oss-120b",
+              "gpt-oss-20b",
+              "kimi-k2",
+              "llm-interface",
+              "lorph",
+              "lorph-ai",
+              "lorph-ai-chat",
+              "minimax-m2",
+              "mistral-large-3",
+              "ocr-chat-react-ai",
+              "ollama-cloud",
+              "qwen3-coder",
+              "typescript-chat",
+              "web-search-ai"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2234,12 +3957,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perplexity style AI answer engine for AI PCs with CPU,GPU and NPU support ",
+            "homepage": null,
             "id": 1152277930,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-01T14:28:56Z",
+            "open_issues": 0,
             "owner": "rupeshs",
             "repo": "verity",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "llamacpp",
+              "llm",
+              "mcp",
+              "npu",
+              "ollama",
+              "openai",
+              "openai-api",
+              "openvino",
+              "rag",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2250,12 +3989,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perplexity style AI answer engine for AI PCs with CPU,GPU and NPU support ",
+            "homepage": null,
             "id": 1152277930,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-01T14:28:56Z",
+            "open_issues": 0,
             "owner": "rupeshs",
             "repo": "verity",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "llamacpp",
+              "llm",
+              "mcp",
+              "npu",
+              "ollama",
+              "openai",
+              "openai-api",
+              "openvino",
+              "rag",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2266,12 +4021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chutes Search (open source)",
+            "homepage": null,
             "id": 1152447519,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-27T22:04:34Z",
+            "open_issues": 1,
             "owner": "chutesai",
             "repo": "chutes-search",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2282,12 +4042,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chutes Search (open source)",
+            "homepage": null,
             "id": 1152447519,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-27T22:04:34Z",
+            "open_issues": 1,
             "owner": "chutesai",
             "repo": "chutes-search",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2298,12 +4063,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engine you can talk to, with cited answers from your files, code, and the web. MCP server for coding agents, web crawler, TUI, CLI, REST API, Python library. No Ollama or LM Studio needed, works with both.",
+            "homepage": "https://lilbee.sh",
             "id": 1173225605,
             "language": "Python",
-            "last_commit": "2026-08-28T21:12:29Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:53:28Z",
+            "open_issues": 3,
             "owner": "tobocop2",
             "repo": "lilbee",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "ai-search-engine",
+              "chat-with-documents",
+              "gguf",
+              "llama-cpp",
+              "lm-studio",
+              "local-ai",
+              "local-first",
+              "local-llm",
+              "local-rag",
+              "mcp-server",
+              "model-manager",
+              "multi-gpu",
+              "notebooklm-alternative",
+              "ollama",
+              "privacy",
+              "private-ai",
+              "rag",
+              "self-hosted",
+              "semantic-search",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2314,12 +4105,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engine you can talk to, with cited answers from your files, code, and the web. MCP server for coding agents, web crawler, TUI, CLI, REST API, Python library. No Ollama or LM Studio needed, works with both.",
+            "homepage": "https://lilbee.sh",
             "id": 1173225605,
             "language": "Python",
-            "last_commit": "2026-08-28T21:12:29Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:53:28Z",
+            "open_issues": 3,
             "owner": "tobocop2",
             "repo": "lilbee",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "ai-search-engine",
+              "chat-with-documents",
+              "gguf",
+              "llama-cpp",
+              "lm-studio",
+              "local-ai",
+              "local-first",
+              "local-llm",
+              "local-rag",
+              "mcp-server",
+              "model-manager",
+              "multi-gpu",
+              "notebooklm-alternative",
+              "ollama",
+              "privacy",
+              "private-ai",
+              "rag",
+              "self-hosted",
+              "semantic-search",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2330,12 +4147,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caesar — autonomous AI research agent with graph-based deep web exploration and adversarial answer synthesis. Open-source alternative to ChatGPT Deep Research, Perplexity, and Gemini Deep Research.",
+            "homepage": "https://jasonzliang.github.io/caesar-agent/",
             "id": 1226385452,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T13:53:15Z",
+            "open_issues": 0,
             "owner": "jasonzliang",
             "repo": "caesar-agent",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "agentic-ai",
+              "agentic-rag",
+              "ai-agent",
+              "autonomous-agent",
+              "chatgpt-alternative",
+              "creative-reasoning",
+              "deep-research",
+              "deep-research-alternative",
+              "gpt-researcher",
+              "knowledge-graph",
+              "llm",
+              "perplexity-alternative",
+              "rag",
+              "research-agent"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2346,12 +4183,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caesar — autonomous AI research agent with graph-based deep web exploration and adversarial answer synthesis. Open-source alternative to ChatGPT Deep Research, Perplexity, and Gemini Deep Research.",
+            "homepage": "https://jasonzliang.github.io/caesar-agent/",
             "id": 1226385452,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T13:53:15Z",
+            "open_issues": 0,
             "owner": "jasonzliang",
             "repo": "caesar-agent",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "agentic-ai",
+              "agentic-rag",
+              "ai-agent",
+              "autonomous-agent",
+              "chatgpt-alternative",
+              "creative-reasoning",
+              "deep-research",
+              "deep-research-alternative",
+              "gpt-researcher",
+              "knowledge-graph",
+              "llm",
+              "perplexity-alternative",
+              "rag",
+              "research-agent"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         }
@@ -2368,12 +4225,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "homepage": "https://docs.searxng.org",
             "id": 357241735,
             "language": "Python",
-            "last_commit": "2026-08-28T08:17:15Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:20:18Z",
+            "open_issues": 222,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 36208
+            "stars": 36219,
+            "topics": [
+              "bing",
+              "brave",
+              "degoogle",
+              "duckduckgo",
+              "google",
+              "metasearch",
+              "privacy",
+              "python",
+              "qwant",
+              "search",
+              "search-engine",
+              "searx",
+              "searxng",
+              "startpage",
+              "yahoo"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2384,12 +4262,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "homepage": "https://docs.searxng.org",
             "id": 357241735,
             "language": "Python",
-            "last_commit": "2026-08-28T08:17:15Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:20:18Z",
+            "open_issues": 222,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 36208
+            "stars": 36219,
+            "topics": [
+              "bing",
+              "brave",
+              "degoogle",
+              "duckduckgo",
+              "google",
+              "metasearch",
+              "privacy",
+              "python",
+              "qwant",
+              "search",
+              "search-engine",
+              "searx",
+              "searxng",
+              "startpage",
+              "yahoo"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2400,12 +4299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official DataForSEO python client",
+            "homepage": "https://dataforseo.com/",
             "id": 766644618,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T18:13:07Z",
+            "open_issues": 0,
             "owner": "dataforseo",
             "repo": "PythonClient",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2416,12 +4320,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/",
+            "homepage": "https://jina.ai/reader",
             "id": 784546140,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-22T02:56:46Z",
+            "open_issues": 28,
             "owner": "jina-ai",
             "repo": "reader",
-            "stars": 11925
+            "stars": 11926,
+            "topics": [
+              "llm",
+              "proxy"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2432,12 +4344,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+            "homepage": "https://firecrawl.dev",
             "id": 787076358,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:43:27Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:10:04Z",
+            "open_issues": 559,
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 173613
+            "stars": 173705,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-crawler",
+              "ai-scraping",
+              "ai-search",
+              "crawler",
+              "data-extraction",
+              "html-to-markdown",
+              "llm",
+              "markdown",
+              "scraper",
+              "scraping",
+              "web-crawler",
+              "web-data",
+              "web-data-extraction",
+              "web-scraper",
+              "web-scraping",
+              "web-search",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2448,12 +4385,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python SDK for the Linkup API",
+            "homepage": null,
             "id": 885536057,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:42:38Z",
+            "open_issues": 0,
             "owner": "LinkupPlatform",
             "repo": "linkup-python-sdk",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "ai-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2464,12 +4408,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance web crawling engine with bindings for 11 languages",
+            "homepage": "https://docs.crawlberg.xberg.io",
             "id": 1176688502,
             "language": "Rust",
-            "last_commit": "2026-08-25T17:41:33Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:19:10Z",
+            "open_issues": 1,
             "owner": "xberg-io",
             "repo": "crawlberg",
-            "stars": 164
+            "stars": 165,
+            "topics": [
+              "crawling",
+              "csharp",
+              "elixir",
+              "ffi",
+              "golang",
+              "java",
+              "mcp",
+              "php",
+              "python",
+              "ruby",
+              "rust",
+              "typescript",
+              "wasm",
+              "web-crawler",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2480,12 +4445,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance web crawling engine with bindings for 11 languages",
+            "homepage": "https://docs.crawlberg.xberg.io",
             "id": 1176688502,
             "language": "Rust",
-            "last_commit": "2026-08-25T17:41:33Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:19:10Z",
+            "open_issues": 1,
             "owner": "xberg-io",
             "repo": "crawlberg",
-            "stars": 164
+            "stars": 165,
+            "topics": [
+              "crawling",
+              "csharp",
+              "elixir",
+              "ffi",
+              "golang",
+              "java",
+              "mcp",
+              "php",
+              "python",
+              "ruby",
+              "rust",
+              "typescript",
+              "wasm",
+              "web-crawler",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2496,12 +4482,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP search and evidence tool for AI agents with query rewriting, source zoom-in, sourced answers, and runtime metrics.",
+            "homepage": "https://pypi.org/project/zoom-search/",
             "id": 1291659608,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-16T10:42:25Z",
+            "open_issues": 0,
             "owner": "goofrey",
             "repo": "zoom-search",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "agent-tools",
+              "ai-agents",
+              "ai-search",
+              "deep-research",
+              "evidence-synthesis",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "python",
+              "query-rewriting",
+              "rag",
+              "source-citations",
+              "source-grounded",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2512,12 +4518,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP search and evidence tool for AI agents with query rewriting, source zoom-in, sourced answers, and runtime metrics.",
+            "homepage": "https://pypi.org/project/zoom-search/",
             "id": 1291659608,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-16T10:42:25Z",
+            "open_issues": 0,
             "owner": "goofrey",
             "repo": "zoom-search",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "agent-tools",
+              "ai-agents",
+              "ai-search",
+              "deep-research",
+              "evidence-synthesis",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "python",
+              "query-rewriting",
+              "rag",
+              "source-citations",
+              "source-grounded",
+              "web-search"
+            ]
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         },
@@ -2528,12 +4554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hosted MCP server for Querit web search and content retrieval",
+            "homepage": null,
             "id": 1326224784,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:07:18Z",
+            "open_issues": 2,
             "owner": "querit-ai",
             "repo": "querit-mcp",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
         }
@@ -2542,15 +4573,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:13:20.703Z",
+    "last_updated": "2026-08-29T04:32:58.132Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search",
+      "homepage": "https://hf.co/spaces/felladrin/awesome-ai-web-search",
       "id": 885931826,
       "language": "HTML",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-14T13:04:56Z",
+      "open_issues": 1,
       "owner": "felladrin",
       "repo": "awesome-ai-web-search",
-      "stars": 1421
+      "stars": 1422,
+      "topics": [
+        "ai",
+        "ai-search-engine",
+        "artificial-intelligence",
+        "artificial-intelligence-projects",
+        "awesome",
+        "awesome-list",
+        "generative-ai",
+        "generative-ai-projects",
+        "generative-ai-tools",
+        "information-retrieval",
+        "llm-inference",
+        "metasearch",
+        "question-answering",
+        "rag",
+        "retrieval-augmented-generation",
+        "web-search"
+      ]
     },
     "original_repository_sha": "41fa5b440fd4b0595b4a6ea6367f2e344b24ba29",
     "enhanced_repository": "enhansome/enhansome-ai-web-search",
