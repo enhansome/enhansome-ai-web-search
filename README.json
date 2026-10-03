@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "khoj-ai/khoj",
-          "description": null,
+          "description": "khoj-ai/khoj",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 161,
             "owner": "khoj-ai",
             "repo": "khoj",
-            "stars": 37557,
+            "stars": 37555,
             "topics": [
               "agent",
               "ai",
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Khoj",
-          "description": null,
+          "description": "khoj-ai/khoj",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -61,7 +61,7 @@
             "open_issues": 161,
             "owner": "khoj-ai",
             "repo": "khoj",
-            "stars": 37557,
+            "stars": 37555,
             "topics": [
               "agent",
               "ai",
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "VikParuchuri/researcher",
-          "description": null,
+          "description": "VikParuchuri/researcher",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -116,7 +116,7 @@
         {
           "node_type": "item",
           "title": "Researcher",
-          "description": null,
+          "description": "VikParuchuri/researcher",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -142,7 +142,7 @@
         {
           "node_type": "item",
           "title": "huggingface/chat-ui",
-          "description": null,
+          "description": "huggingface/chat-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,11 +151,11 @@
             "id": 603085008,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:26:31Z",
-            "open_issues": 300,
+            "last_commit": "2026-10-02T20:33:34Z",
+            "open_issues": 301,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10972,
+            "stars": 10973,
             "topics": [
               "chatgpt",
               "hacktoberfest",
@@ -173,7 +173,7 @@
         {
           "node_type": "item",
           "title": "Chat UI",
-          "description": null,
+          "description": "huggingface/chat-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -182,11 +182,11 @@
             "id": 603085008,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:26:31Z",
-            "open_issues": 300,
+            "last_commit": "2026-10-02T20:33:34Z",
+            "open_issues": 301,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10972,
+            "stars": 10973,
             "topics": [
               "chatgpt",
               "hacktoberfest",
@@ -204,7 +204,7 @@
         {
           "node_type": "item",
           "title": "mckaywrigley/clarity-ai",
-          "description": null,
+          "description": "mckaywrigley/clarity-ai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -225,7 +225,7 @@
         {
           "node_type": "item",
           "title": "Clarity AI",
-          "description": null,
+          "description": "mckaywrigley/clarity-ai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -246,7 +246,7 @@
         {
           "node_type": "item",
           "title": "LostRuins/koboldcpp",
-          "description": null,
+          "description": "LostRuins/koboldcpp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -255,11 +255,11 @@
             "id": 614637892,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T13:45:27Z",
+            "last_commit": "2026-10-03T03:44:21Z",
             "open_issues": 527,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11923,
+            "stars": 11926,
             "topics": [
               "gemma",
               "ggml",
@@ -278,7 +278,7 @@
         {
           "node_type": "item",
           "title": "KoboldCpp",
-          "description": null,
+          "description": "LostRuins/koboldcpp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -287,11 +287,11 @@
             "id": 614637892,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T13:45:27Z",
+            "last_commit": "2026-10-03T03:44:21Z",
             "open_issues": 527,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11923,
+            "stars": 11926,
             "topics": [
               "gemma",
               "ggml",
@@ -310,7 +310,7 @@
         {
           "node_type": "item",
           "title": "webpilot-ai/Webpilot",
-          "description": null,
+          "description": "webpilot-ai/Webpilot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -331,7 +331,7 @@
         {
           "node_type": "item",
           "title": "WebPilot",
-          "description": null,
+          "description": "webpilot-ai/Webpilot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -352,7 +352,7 @@
         {
           "node_type": "item",
           "title": "onyx-dot-app/onyx",
-          "description": null,
+          "description": "onyx-dot-app/onyx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -361,11 +361,11 @@
             "id": 633262635,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T14:25:06Z",
-            "open_issues": 530,
+            "last_commit": "2026-10-03T04:15:45Z",
+            "open_issues": 527,
             "owner": "onyx-dot-app",
             "repo": "onyx",
-            "stars": 32311,
+            "stars": 32316,
             "topics": [
               "ai",
               "ai-chat",
@@ -388,7 +388,7 @@
         {
           "node_type": "item",
           "title": "Onyx",
-          "description": null,
+          "description": "onyx-dot-app/onyx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -397,11 +397,11 @@
             "id": 633262635,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T14:25:06Z",
-            "open_issues": 530,
+            "last_commit": "2026-10-03T04:15:45Z",
+            "open_issues": 527,
             "owner": "onyx-dot-app",
             "repo": "onyx",
-            "stars": 32311,
+            "stars": 32316,
             "topics": [
               "ai",
               "ai-chat",
@@ -424,7 +424,7 @@
         {
           "node_type": "item",
           "title": "assafelovic/gpt-researcher",
-          "description": null,
+          "description": "assafelovic/gpt-researcher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -434,10 +434,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T19:33:35Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29871,
+            "stars": 29880,
             "topics": [
               "agent",
               "ai",
@@ -457,7 +457,7 @@
         {
           "node_type": "item",
           "title": "GPT Researcher",
-          "description": null,
+          "description": "assafelovic/gpt-researcher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -467,10 +467,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T19:33:35Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 29871,
+            "stars": 29880,
             "topics": [
               "agent",
               "ai",
@@ -490,7 +490,7 @@
         {
           "node_type": "item",
           "title": "Mintplex-Labs/anything-llm",
-          "description": null,
+          "description": "Mintplex-Labs/anything-llm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -499,11 +499,11 @@
             "id": 649170660,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T01:52:53Z",
-            "open_issues": 327,
+            "last_commit": "2026-10-03T01:18:20Z",
+            "open_issues": 325,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 66664,
+            "stars": 66676,
             "topics": [
               "agent-computer",
               "agent-harness",
@@ -527,7 +527,7 @@
         {
           "node_type": "item",
           "title": "AnythingLLM",
-          "description": null,
+          "description": "Mintplex-Labs/anything-llm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -536,11 +536,11 @@
             "id": 649170660,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T01:52:53Z",
-            "open_issues": 327,
+            "last_commit": "2026-10-03T01:18:20Z",
+            "open_issues": 325,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 66664,
+            "stars": 66676,
             "topics": [
               "agent-computer",
               "agent-harness",
@@ -564,7 +564,7 @@
         {
           "node_type": "item",
           "title": "qwersyk/Newelle",
-          "description": null,
+          "description": "qwersyk/Newelle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -593,7 +593,7 @@
         {
           "node_type": "item",
           "title": "Newelle",
-          "description": null,
+          "description": "qwersyk/Newelle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -622,7 +622,7 @@
         {
           "node_type": "item",
           "title": "open-webui/open-webui",
-          "description": null,
+          "description": "open-webui/open-webui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -632,10 +632,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T04:50:55Z",
-            "open_issues": 271,
+            "open_issues": 276,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 153797,
+            "stars": 153833,
             "topics": [
               "ai",
               "llm",
@@ -659,7 +659,7 @@
         {
           "node_type": "item",
           "title": "Open WebUI",
-          "description": null,
+          "description": "open-webui/open-webui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -669,10 +669,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T04:50:55Z",
-            "open_issues": 271,
+            "open_issues": 276,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 153797,
+            "stars": 153833,
             "topics": [
               "ai",
               "llm",
@@ -696,7 +696,7 @@
         {
           "node_type": "item",
           "title": "jacobbergdahl/limopola",
-          "description": null,
+          "description": "jacobbergdahl/limopola",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -717,7 +717,7 @@
         {
           "node_type": "item",
           "title": "Limopola",
-          "description": null,
+          "description": "jacobbergdahl/limopola",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -738,7 +738,7 @@
         {
           "node_type": "item",
           "title": "felladrin/MiniSearch",
-          "description": null,
+          "description": "felladrin/MiniSearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -747,11 +747,11 @@
             "id": 704892113,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:56:03Z",
+            "last_commit": "2026-10-02T21:40:15Z",
             "open_issues": 0,
             "owner": "felladrin",
             "repo": "MiniSearch",
-            "stars": 599,
+            "stars": 600,
             "topics": [
               "ai",
               "ai-search-engine",
@@ -777,7 +777,7 @@
         {
           "node_type": "item",
           "title": "MiniSearch",
-          "description": null,
+          "description": "felladrin/MiniSearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -786,11 +786,11 @@
             "id": 704892113,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:56:03Z",
+            "last_commit": "2026-10-02T21:40:15Z",
             "open_issues": 0,
             "owner": "felladrin",
             "repo": "MiniSearch",
-            "stars": 599,
+            "stars": 600,
             "topics": [
               "ai",
               "ai-search-engine",
@@ -816,7 +816,7 @@
         {
           "node_type": "item",
           "title": "myshell-ai/AIlice",
-          "description": null,
+          "description": "myshell-ai/AIlice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -829,7 +829,7 @@
             "open_issues": 7,
             "owner": "myshell-ai",
             "repo": "AIlice",
-            "stars": 1417,
+            "stars": 1418,
             "topics": [
               "agent",
               "ai",
@@ -842,7 +842,7 @@
         {
           "node_type": "item",
           "title": "AIlice",
-          "description": null,
+          "description": "myshell-ai/AIlice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -855,7 +855,7 @@
             "open_issues": 7,
             "owner": "myshell-ai",
             "repo": "AIlice",
-            "stars": 1417,
+            "stars": 1418,
             "topics": [
               "agent",
               "ai",
@@ -868,7 +868,7 @@
         {
           "node_type": "item",
           "title": "leptonai/search_with_lepton",
-          "description": null,
+          "description": "leptonai/search_with_lepton",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -894,7 +894,7 @@
         {
           "node_type": "item",
           "title": "Lepton Search",
-          "description": null,
+          "description": "leptonai/search_with_lepton",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -920,7 +920,7 @@
         {
           "node_type": "item",
           "title": "heurist-network/gpt-search-web",
-          "description": null,
+          "description": "heurist-network/gpt-search-web",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -941,7 +941,7 @@
         {
           "node_type": "item",
           "title": "Heurist Search",
-          "description": null,
+          "description": "heurist-network/gpt-search-web",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -962,7 +962,7 @@
         {
           "node_type": "item",
           "title": "developersdigest/llm-answer-engine",
-          "description": null,
+          "description": "developersdigest/llm-answer-engine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -983,7 +983,7 @@
         {
           "node_type": "item",
           "title": "LLM Answer Engine",
-          "description": null,
+          "description": "developersdigest/llm-answer-engine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1004,7 +1004,7 @@
         {
           "node_type": "item",
           "title": "yokingma/SearChat",
-          "description": null,
+          "description": "yokingma/SearChat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1037,7 +1037,7 @@
         {
           "node_type": "item",
           "title": "Search with AI",
-          "description": null,
+          "description": "yokingma/SearChat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1070,7 +1070,7 @@
         {
           "node_type": "item",
           "title": "nilsherzig/LLocalSearch",
-          "description": null,
+          "description": "nilsherzig/LLocalSearch",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1083,7 +1083,7 @@
             "open_issues": 58,
             "owner": "nilsherzig",
             "repo": "LLocalSearch",
-            "stars": 5942,
+            "stars": 5943,
             "topics": [
               "llm",
               "search-engine"
@@ -1094,7 +1094,7 @@
         {
           "node_type": "item",
           "title": "LLocalSearch",
-          "description": null,
+          "description": "nilsherzig/LLocalSearch",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1107,7 +1107,7 @@
             "open_issues": 58,
             "owner": "nilsherzig",
             "repo": "LLocalSearch",
-            "stars": 5942,
+            "stars": 5943,
             "topics": [
               "llm",
               "search-engine"
@@ -1118,7 +1118,7 @@
         {
           "node_type": "item",
           "title": "Video",
-          "description": null,
+          "description": "nilsherzig/LLocalSearch",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1131,7 +1131,7 @@
             "open_issues": 58,
             "owner": "nilsherzig",
             "repo": "LLocalSearch",
-            "stars": 5942,
+            "stars": 5943,
             "topics": [
               "llm",
               "search-engine"
@@ -1142,7 +1142,7 @@
         {
           "node_type": "item",
           "title": "miurla/morphic",
-          "description": null,
+          "description": "miurla/morphic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1155,7 +1155,7 @@
             "open_issues": 55,
             "owner": "miurla",
             "repo": "morphic",
-            "stars": 9152,
+            "stars": 9151,
             "topics": [
               "generative-ai",
               "generative-ui",
@@ -1176,7 +1176,7 @@
         {
           "node_type": "item",
           "title": "Morphic",
-          "description": null,
+          "description": "miurla/morphic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1189,7 +1189,7 @@
             "open_issues": 55,
             "owner": "miurla",
             "repo": "morphic",
-            "stars": 9152,
+            "stars": 9151,
             "topics": [
               "generative-ai",
               "generative-ui",
@@ -1210,7 +1210,7 @@
         {
           "node_type": "item",
           "title": "ItzCrazyKns/Vane",
-          "description": null,
+          "description": "ItzCrazyKns/Vane",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1223,7 +1223,7 @@
             "open_issues": 356,
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 36976,
+            "stars": 36983,
             "topics": [
               "ai-agents",
               "ai-search-engine",
@@ -1246,7 +1246,7 @@
         {
           "node_type": "item",
           "title": "Perplexica",
-          "description": null,
+          "description": "ItzCrazyKns/Vane",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1259,7 +1259,7 @@
             "open_issues": 356,
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 36976,
+            "stars": 36983,
             "topics": [
               "ai-agents",
               "ai-search-engine",
@@ -1282,7 +1282,7 @@
         {
           "node_type": "item",
           "title": "Video",
-          "description": null,
+          "description": "ItzCrazyKns/Vane",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1295,7 +1295,7 @@
             "open_issues": 356,
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 36976,
+            "stars": 36983,
             "topics": [
               "ai-agents",
               "ai-search-engine",
@@ -1318,7 +1318,7 @@
         {
           "node_type": "item",
           "title": "stanford-oval/storm",
-          "description": null,
+          "description": "stanford-oval/storm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1328,10 +1328,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-09-30T18:07:21Z",
-            "open_issues": 111,
+            "open_issues": 110,
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31557,
+            "stars": 31558,
             "topics": [
               "agentic-rag",
               "deep-research",
@@ -1349,7 +1349,7 @@
         {
           "node_type": "item",
           "title": "STORM",
-          "description": null,
+          "description": "stanford-oval/storm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1359,10 +1359,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-09-30T18:07:21Z",
-            "open_issues": 111,
+            "open_issues": 110,
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31557,
+            "stars": 31558,
             "topics": [
               "agentic-rag",
               "deep-research",
@@ -1380,7 +1380,7 @@
         {
           "node_type": "item",
           "title": "rashadphz/farfalle",
-          "description": null,
+          "description": "rashadphz/farfalle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1415,7 +1415,7 @@
         {
           "node_type": "item",
           "title": "Farfalle",
-          "description": null,
+          "description": "rashadphz/farfalle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1450,7 +1450,7 @@
         {
           "node_type": "item",
           "title": "philfung/perplexed",
-          "description": null,
+          "description": "philfung/perplexed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1480,7 +1480,7 @@
         {
           "node_type": "item",
           "title": "Perplexed",
-          "description": null,
+          "description": "philfung/perplexed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1510,7 +1510,7 @@
         {
           "node_type": "item",
           "title": "CherryHQ/cherry-studio",
-          "description": null,
+          "description": "CherryHQ/cherry-studio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1519,11 +1519,11 @@
             "id": 805155266,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T15:30:34Z",
-            "open_issues": 1700,
+            "last_commit": "2026-10-03T03:16:56Z",
+            "open_issues": 1704,
             "owner": "CherryHQ",
             "repo": "cherry-studio",
-            "stars": 52319,
+            "stars": 52327,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -1541,7 +1541,7 @@
         {
           "node_type": "item",
           "title": "Cherry Studio",
-          "description": null,
+          "description": "CherryHQ/cherry-studio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1550,11 +1550,11 @@
             "id": 805155266,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T15:30:34Z",
-            "open_issues": 1700,
+            "last_commit": "2026-10-03T03:16:56Z",
+            "open_issues": 1704,
             "owner": "CherryHQ",
             "repo": "cherry-studio",
-            "stars": 52319,
+            "stars": 52327,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -1572,7 +1572,7 @@
         {
           "node_type": "item",
           "title": "kartikm7/llocal",
-          "description": null,
+          "description": "kartikm7/llocal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1603,7 +1603,7 @@
         {
           "node_type": "item",
           "title": "LLocal",
-          "description": null,
+          "description": "kartikm7/llocal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1634,7 +1634,7 @@
         {
           "node_type": "item",
           "title": "shadowfax92/Fyin",
-          "description": null,
+          "description": "shadowfax92/Fyin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1661,7 +1661,7 @@
         {
           "node_type": "item",
           "title": "Fyin",
-          "description": null,
+          "description": "shadowfax92/Fyin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1688,7 +1688,7 @@
         {
           "node_type": "item",
           "title": "Nutlope/turboseek",
-          "description": null,
+          "description": "Nutlope/turboseek",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1709,7 +1709,7 @@
         {
           "node_type": "item",
           "title": "Turboseek",
-          "description": null,
+          "description": "Nutlope/turboseek",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1730,7 +1730,7 @@
         {
           "node_type": "item",
           "title": "vincentdnl/operativeai",
-          "description": null,
+          "description": "vincentdnl/operativeai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1751,7 +1751,7 @@
         {
           "node_type": "item",
           "title": "OperativeAI",
-          "description": null,
+          "description": "vincentdnl/operativeai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1772,7 +1772,7 @@
         {
           "node_type": "item",
           "title": "Screenshot",
-          "description": null,
+          "description": "vincentdnl/operativeai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1793,7 +1793,7 @@
         {
           "node_type": "item",
           "title": "jjleng/sensei",
-          "description": null,
+          "description": "jjleng/sensei",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1814,7 +1814,7 @@
         {
           "node_type": "item",
           "title": "Sensei",
-          "description": null,
+          "description": "jjleng/sensei",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1835,7 +1835,7 @@
         {
           "node_type": "item",
           "title": "AstraBert/PrAIvateSearch",
-          "description": null,
+          "description": "AstraBert/PrAIvateSearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1848,7 +1848,7 @@
             "open_issues": 2,
             "owner": "AstraBert",
             "repo": "PrAIvateSearch",
-            "stars": 98,
+            "stars": 96,
             "topics": [
               "ai",
               "docker",
@@ -1867,7 +1867,7 @@
         {
           "node_type": "item",
           "title": "SearchPhi",
-          "description": null,
+          "description": "AstraBert/PrAIvateSearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1880,7 +1880,7 @@
             "open_issues": 2,
             "owner": "AstraBert",
             "repo": "PrAIvateSearch",
-            "stars": 98,
+            "stars": 96,
             "topics": [
               "ai",
               "docker",
@@ -1899,7 +1899,7 @@
         {
           "node_type": "item",
           "title": "InternLM/MindSearch",
-          "description": null,
+          "description": "InternLM/MindSearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1912,7 +1912,7 @@
             "open_issues": 61,
             "owner": "InternLM",
             "repo": "MindSearch",
-            "stars": 6933,
+            "stars": 6934,
             "topics": [
               "ai-search-engine",
               "gpt",
@@ -1931,7 +1931,7 @@
         {
           "node_type": "item",
           "title": "MindSearch",
-          "description": null,
+          "description": "InternLM/MindSearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1944,7 +1944,7 @@
             "open_issues": 61,
             "owner": "InternLM",
             "repo": "MindSearch",
-            "stars": 6933,
+            "stars": 6934,
             "topics": [
               "ai-search-engine",
               "gpt",
@@ -1963,7 +1963,7 @@
         {
           "node_type": "item",
           "title": "MODSetter/SurfSense",
-          "description": null,
+          "description": "MODSetter/SurfSense",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1972,11 +1972,11 @@
             "id": 835975784,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T15:37:46Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-02T23:58:46Z",
+            "open_issues": 112,
             "owner": "MODSetter",
             "repo": "SurfSense",
-            "stars": 16309,
+            "stars": 16312,
             "topics": [
               "agent",
               "agents",
@@ -1994,7 +1994,7 @@
         {
           "node_type": "item",
           "title": "SurfSense",
-          "description": null,
+          "description": "MODSetter/SurfSense",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2003,11 +2003,11 @@
             "id": 835975784,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T15:37:46Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-02T23:58:46Z",
+            "open_issues": 112,
             "owner": "MODSetter",
             "repo": "SurfSense",
-            "stars": 16309,
+            "stars": 16312,
             "topics": [
               "agent",
               "agents",
@@ -2025,7 +2025,7 @@
         {
           "node_type": "item",
           "title": "YassKhazzan/openperplex_backend_os",
-          "description": null,
+          "description": "YassKhazzan/openperplex_backend_os",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2046,7 +2046,7 @@
         {
           "node_type": "item",
           "title": "OpenPerplex",
-          "description": null,
+          "description": "YassKhazzan/openperplex_backend_os",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2067,7 +2067,7 @@
         {
           "node_type": "item",
           "title": "jayshah5696/pravah",
-          "description": null,
+          "description": "jayshah5696/pravah",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2088,7 +2088,7 @@
         {
           "node_type": "item",
           "title": "Pravah",
-          "description": null,
+          "description": "jayshah5696/pravah",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2109,7 +2109,7 @@
         {
           "node_type": "item",
           "title": "zaidmukaddam/scira",
-          "description": null,
+          "description": "zaidmukaddam/scira",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2122,7 +2122,7 @@
             "open_issues": 27,
             "owner": "zaidmukaddam",
             "repo": "scira",
-            "stars": 11905,
+            "stars": 11906,
             "topics": [
               "ai-search-engine",
               "minimalistic-ai-search-engine",
@@ -2136,7 +2136,7 @@
         {
           "node_type": "item",
           "title": "Scira",
-          "description": null,
+          "description": "zaidmukaddam/scira",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2149,7 +2149,7 @@
             "open_issues": 27,
             "owner": "zaidmukaddam",
             "repo": "scira",
-            "stars": 11905,
+            "stars": 11906,
             "topics": [
               "ai-search-engine",
               "minimalistic-ai-search-engine",
@@ -2163,7 +2163,7 @@
         {
           "node_type": "item",
           "title": "legraphista/localplexity",
-          "description": null,
+          "description": "legraphista/localplexity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2191,7 +2191,7 @@
         {
           "node_type": "item",
           "title": "LocalPlexity",
-          "description": null,
+          "description": "legraphista/localplexity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2219,7 +2219,7 @@
         {
           "node_type": "item",
           "title": "Jay4242/llm-websearch",
-          "description": null,
+          "description": "Jay4242/llm-websearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2240,7 +2240,7 @@
         {
           "node_type": "item",
           "title": "LLM Websearch",
-          "description": null,
+          "description": "Jay4242/llm-websearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2261,7 +2261,7 @@
         {
           "node_type": "item",
           "title": "radityaharya/looq",
-          "description": null,
+          "description": "radityaharya/looq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2286,7 +2286,7 @@
         {
           "node_type": "item",
           "title": "Looq",
-          "description": null,
+          "description": "radityaharya/looq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2311,7 +2311,7 @@
         {
           "node_type": "item",
           "title": "shivvamm/Search-With-Aisia",
-          "description": null,
+          "description": "shivvamm/Search-With-Aisia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2345,7 +2345,7 @@
         {
           "node_type": "item",
           "title": "Alisia",
-          "description": null,
+          "description": "shivvamm/Search-With-Aisia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2379,7 +2379,7 @@
         {
           "node_type": "item",
           "title": "johnbean393/Sidekick",
-          "description": null,
+          "description": "johnbean393/Sidekick",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2420,7 +2420,7 @@
         {
           "node_type": "item",
           "title": "Sidekick",
-          "description": null,
+          "description": "johnbean393/Sidekick",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2461,7 +2461,7 @@
         {
           "node_type": "item",
           "title": "navedmerchant/MyDeviceAI",
-          "description": null,
+          "description": "navedmerchant/MyDeviceAI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2482,7 +2482,7 @@
         {
           "node_type": "item",
           "title": "MyDeviceAI",
-          "description": null,
+          "description": "navedmerchant/MyDeviceAI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2503,7 +2503,7 @@
         {
           "node_type": "item",
           "title": "pengfeng/ask.py",
-          "description": null,
+          "description": "pengfeng/ask.py",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2531,7 +2531,7 @@
         {
           "node_type": "item",
           "title": "Ask.py",
-          "description": null,
+          "description": "pengfeng/ask.py",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2559,7 +2559,7 @@
         {
           "node_type": "item",
           "title": "cnzzx/VSA",
-          "description": null,
+          "description": "cnzzx/VSA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2588,7 +2588,7 @@
         {
           "node_type": "item",
           "title": "VSA",
-          "description": null,
+          "description": "cnzzx/VSA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2617,7 +2617,7 @@
         {
           "node_type": "item",
           "title": "memfreeme/memfree",
-          "description": null,
+          "description": "memfreeme/memfree",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2653,7 +2653,7 @@
         {
           "node_type": "item",
           "title": "MemFree",
-          "description": null,
+          "description": "memfreeme/memfree",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2689,7 +2689,7 @@
         {
           "node_type": "item",
           "title": "brunostjohn/perplexideez",
-          "description": null,
+          "description": "brunostjohn/perplexideez",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2710,7 +2710,7 @@
         {
           "node_type": "item",
           "title": "Perplexideez",
-          "description": null,
+          "description": "brunostjohn/perplexideez",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2731,7 +2731,7 @@
         {
           "node_type": "item",
           "title": "Toy-97/Chat-WebUI",
-          "description": null,
+          "description": "Toy-97/Chat-WebUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2752,7 +2752,7 @@
         {
           "node_type": "item",
           "title": "Chat WebUI",
-          "description": null,
+          "description": "Toy-97/Chat-WebUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2773,7 +2773,7 @@
         {
           "node_type": "item",
           "title": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
-          "description": null,
+          "description": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2786,7 +2786,7 @@
             "open_issues": 11,
             "owner": "TheBlewish",
             "repo": "Automated-AI-Web-Researcher-Ollama",
-            "stars": 3018,
+            "stars": 3019,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -2794,7 +2794,7 @@
         {
           "node_type": "item",
           "title": "Automated AI Web Researcher",
-          "description": null,
+          "description": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2807,7 +2807,7 @@
             "open_issues": 11,
             "owner": "TheBlewish",
             "repo": "Automated-AI-Web-Researcher-Ollama",
-            "stars": 3018,
+            "stars": 3019,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -2815,7 +2815,7 @@
         {
           "node_type": "item",
           "title": "sooti/sootiAI",
-          "description": null,
+          "description": "sooti/sootiAI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2836,7 +2836,7 @@
         {
           "node_type": "item",
           "title": "SootiAI",
-          "description": null,
+          "description": "sooti/sootiAI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2857,7 +2857,7 @@
         {
           "node_type": "item",
           "title": "langchain-ai/local-deep-researcher",
-          "description": null,
+          "description": "langchain-ai/local-deep-researcher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2878,7 +2878,7 @@
         {
           "node_type": "item",
           "title": "Local Deep Researcher",
-          "description": null,
+          "description": "langchain-ai/local-deep-researcher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2899,7 +2899,7 @@
         {
           "node_type": "item",
           "title": "pcastiglione99/RAGify-Search",
-          "description": null,
+          "description": "pcastiglione99/RAGify-Search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2927,7 +2927,7 @@
         {
           "node_type": "item",
           "title": "RAGify Search",
-          "description": null,
+          "description": "pcastiglione99/RAGify-Search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2955,7 +2955,7 @@
         {
           "node_type": "item",
           "title": "leettools-dev/leettools",
-          "description": null,
+          "description": "leettools-dev/leettools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2976,7 +2976,7 @@
         {
           "node_type": "item",
           "title": "LeetTools",
-          "description": null,
+          "description": "leettools-dev/leettools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2997,7 +2997,7 @@
         {
           "node_type": "item",
           "title": "zachrattner/scourhead",
-          "description": null,
+          "description": "zachrattner/scourhead",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3018,7 +3018,7 @@
         {
           "node_type": "item",
           "title": "Scourhead",
-          "description": null,
+          "description": "zachrattner/scourhead",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3039,7 +3039,7 @@
         {
           "node_type": "item",
           "title": "hrithikkoduri/WebRover",
-          "description": null,
+          "description": "hrithikkoduri/WebRover",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3060,7 +3060,7 @@
         {
           "node_type": "item",
           "title": "WebRover",
-          "description": null,
+          "description": "hrithikkoduri/WebRover",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3081,7 +3081,7 @@
         {
           "node_type": "item",
           "title": "jina-ai/node-DeepResearch",
-          "description": null,
+          "description": "jina-ai/node-DeepResearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3105,7 +3105,7 @@
         {
           "node_type": "item",
           "title": "Jina DeepResearch",
-          "description": null,
+          "description": "jina-ai/node-DeepResearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3129,7 +3129,7 @@
         {
           "node_type": "item",
           "title": "nickscamara/open-deep-research",
-          "description": null,
+          "description": "nickscamara/open-deep-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3150,7 +3150,7 @@
         {
           "node_type": "item",
           "title": "Open Deep Research",
-          "description": null,
+          "description": "nickscamara/open-deep-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3171,7 +3171,7 @@
         {
           "node_type": "item",
           "title": "LearningCircuit/local-deep-research",
-          "description": null,
+          "description": "LearningCircuit/local-deep-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3180,11 +3180,11 @@
             "id": 929868765,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:17:59Z",
-            "open_issues": 1106,
+            "last_commit": "2026-10-03T04:32:23Z",
+            "open_issues": 1117,
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 9147,
+            "stars": 9148,
             "topics": [
               "academia",
               "anthropic",
@@ -3213,7 +3213,7 @@
         {
           "node_type": "item",
           "title": "Local Deep Research",
-          "description": null,
+          "description": "LearningCircuit/local-deep-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3222,11 +3222,11 @@
             "id": 929868765,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:17:59Z",
-            "open_issues": 1106,
+            "last_commit": "2026-10-03T04:32:23Z",
+            "open_issues": 1117,
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 9147,
+            "stars": 9148,
             "topics": [
               "academia",
               "anthropic",
@@ -3255,7 +3255,7 @@
         {
           "node_type": "item",
           "title": "masterFoad/NanoSage",
-          "description": null,
+          "description": "masterFoad/NanoSage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3291,7 +3291,7 @@
         {
           "node_type": "item",
           "title": "NanoSage",
-          "description": null,
+          "description": "masterFoad/NanoSage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3327,7 +3327,7 @@
         {
           "node_type": "item",
           "title": "AsyncFuncAI/rabbitholes",
-          "description": null,
+          "description": "AsyncFuncAI/rabbitholes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3354,7 +3354,7 @@
         {
           "node_type": "item",
           "title": "RabbitHoles",
-          "description": null,
+          "description": "AsyncFuncAI/rabbitholes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3381,7 +3381,7 @@
         {
           "node_type": "item",
           "title": "ThinkInAIXYZ/deepchat",
-          "description": null,
+          "description": "ThinkInAIXYZ/deepchat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3391,10 +3391,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:12:12Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "ThinkInAIXYZ",
             "repo": "deepchat",
-            "stars": 6356,
+            "stars": 6357,
             "topics": [
               "agent",
               "agent-skills",
@@ -3421,7 +3421,7 @@
         {
           "node_type": "item",
           "title": "DeepChat",
-          "description": null,
+          "description": "ThinkInAIXYZ/deepchat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3431,10 +3431,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:12:12Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "ThinkInAIXYZ",
             "repo": "deepchat",
-            "stars": 6356,
+            "stars": 6357,
             "topics": [
               "agent",
               "agent-skills",
@@ -3461,7 +3461,7 @@
         {
           "node_type": "item",
           "title": "u14app/deep-research",
-          "description": null,
+          "description": "u14app/deep-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3493,7 +3493,7 @@
         {
           "node_type": "item",
           "title": "U14 Deep Research",
-          "description": null,
+          "description": "u14app/deep-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3525,7 +3525,7 @@
         {
           "node_type": "item",
           "title": "AstraBert/llama-4-researcher",
-          "description": null,
+          "description": "AstraBert/llama-4-researcher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3556,7 +3556,7 @@
         {
           "node_type": "item",
           "title": "LlamaResearcher",
-          "description": null,
+          "description": "AstraBert/llama-4-researcher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3587,7 +3587,7 @@
         {
           "node_type": "item",
           "title": "bytedance/deer-flow",
-          "description": null,
+          "description": "bytedance/deer-flow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3596,11 +3596,11 @@
             "id": 979115477,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:49:22Z",
-            "open_issues": 902,
+            "last_commit": "2026-10-03T03:33:31Z",
+            "open_issues": 898,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 83328,
+            "stars": 83338,
             "topics": [
               "agent",
               "agentic",
@@ -3627,7 +3627,7 @@
         {
           "node_type": "item",
           "title": "DeerFlow",
-          "description": null,
+          "description": "bytedance/deer-flow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3636,11 +3636,11 @@
             "id": 979115477,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:49:22Z",
-            "open_issues": 902,
+            "last_commit": "2026-10-03T03:33:31Z",
+            "open_issues": 898,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 83328,
+            "stars": 83338,
             "topics": [
               "agent",
               "agentic",
@@ -3667,7 +3667,7 @@
         {
           "node_type": "item",
           "title": "brooksy4503/chatlima",
-          "description": null,
+          "description": "brooksy4503/chatlima",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3688,7 +3688,7 @@
         {
           "node_type": "item",
           "title": "ChatLima",
-          "description": null,
+          "description": "brooksy4503/chatlima",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3709,7 +3709,7 @@
         {
           "node_type": "item",
           "title": "JasonHonKL/spy-search",
-          "description": null,
+          "description": "JasonHonKL/spy-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3730,7 +3730,7 @@
         {
           "node_type": "item",
           "title": "Spy Search",
-          "description": null,
+          "description": "JasonHonKL/spy-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3751,7 +3751,7 @@
         {
           "node_type": "item",
           "title": "google-gemini/gemini-fullstack-langgraph-quickstart",
-          "description": null,
+          "description": "google-gemini/gemini-fullstack-langgraph-quickstart",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3764,7 +3764,7 @@
             "open_issues": 78,
             "owner": "google-gemini",
             "repo": "gemini-fullstack-langgraph-quickstart",
-            "stars": 18342,
+            "stars": 18344,
             "topics": [
               "gemini",
               "gemini-api"
@@ -3775,7 +3775,7 @@
         {
           "node_type": "item",
           "title": "Gemini Fullstack LangGraph",
-          "description": null,
+          "description": "google-gemini/gemini-fullstack-langgraph-quickstart",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3788,7 +3788,7 @@
             "open_issues": 78,
             "owner": "google-gemini",
             "repo": "gemini-fullstack-langgraph-quickstart",
-            "stars": 18342,
+            "stars": 18344,
             "topics": [
               "gemini",
               "gemini-api"
@@ -3799,7 +3799,7 @@
         {
           "node_type": "item",
           "title": "edoigtrd/ubiquite",
-          "description": null,
+          "description": "edoigtrd/ubiquite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3829,7 +3829,7 @@
         {
           "node_type": "item",
           "title": "Ubiquité",
-          "description": null,
+          "description": "edoigtrd/ubiquite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3859,7 +3859,7 @@
         {
           "node_type": "item",
           "title": "AL-MARID/Lorph",
-          "description": null,
+          "description": "AL-MARID/Lorph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3900,7 +3900,7 @@
         {
           "node_type": "item",
           "title": "Lorph",
-          "description": null,
+          "description": "AL-MARID/Lorph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3941,7 +3941,7 @@
         {
           "node_type": "item",
           "title": "rupeshs/verity",
-          "description": null,
+          "description": "rupeshs/verity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3973,7 +3973,7 @@
         {
           "node_type": "item",
           "title": "Verity",
-          "description": null,
+          "description": "rupeshs/verity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4005,7 +4005,7 @@
         {
           "node_type": "item",
           "title": "chutesai/chutes-search",
-          "description": null,
+          "description": "chutesai/chutes-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4026,7 +4026,7 @@
         {
           "node_type": "item",
           "title": "Chutes Search",
-          "description": null,
+          "description": "chutesai/chutes-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4047,7 +4047,7 @@
         {
           "node_type": "item",
           "title": "tobocop2/lilbee",
-          "description": null,
+          "description": "tobocop2/lilbee",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4056,8 +4056,8 @@
             "id": 1173225605,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:31:38Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-03T04:26:10Z",
+            "open_issues": 9,
             "owner": "tobocop2",
             "repo": "lilbee",
             "stars": 62,
@@ -4089,7 +4089,7 @@
         {
           "node_type": "item",
           "title": "lilbee",
-          "description": null,
+          "description": "tobocop2/lilbee",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4098,8 +4098,8 @@
             "id": 1173225605,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:31:38Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-03T04:26:10Z",
+            "open_issues": 9,
             "owner": "tobocop2",
             "repo": "lilbee",
             "stars": 62,
@@ -4131,7 +4131,7 @@
         {
           "node_type": "item",
           "title": "jasonzliang/caesar-agent",
-          "description": null,
+          "description": "jasonzliang/caesar-agent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4167,7 +4167,7 @@
         {
           "node_type": "item",
           "title": "Caesar",
-          "description": null,
+          "description": "jasonzliang/caesar-agent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4203,7 +4203,7 @@
         {
           "node_type": "item",
           "title": "theguysudo/ENZO",
-          "description": null,
+          "description": "theguysudo/ENZO",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4212,7 +4212,7 @@
             "id": 1355857144,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:27:52Z",
+            "last_commit": "2026-10-03T01:38:34Z",
             "open_issues": 1,
             "owner": "theguysudo",
             "repo": "ENZO",
@@ -4245,7 +4245,7 @@
         {
           "node_type": "item",
           "title": "ENZO",
-          "description": null,
+          "description": "theguysudo/ENZO",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4254,7 +4254,7 @@
             "id": 1355857144,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:27:52Z",
+            "last_commit": "2026-10-03T01:38:34Z",
             "open_issues": 1,
             "owner": "theguysudo",
             "repo": "ENZO",
@@ -4293,7 +4293,7 @@
         {
           "node_type": "item",
           "title": "searxng/searxng",
-          "description": null,
+          "description": "searxng/searxng",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4306,7 +4306,7 @@
             "open_issues": 189,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 37878,
+            "stars": 37893,
             "topics": [
               "bing",
               "brave",
@@ -4330,7 +4330,7 @@
         {
           "node_type": "item",
           "title": "SearXNG",
-          "description": null,
+          "description": "searxng/searxng",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4343,7 +4343,7 @@
             "open_issues": 189,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 37878,
+            "stars": 37893,
             "topics": [
               "bing",
               "brave",
@@ -4401,7 +4401,7 @@
             "open_issues": 33,
             "owner": "jina-ai",
             "repo": "reader",
-            "stars": 12089,
+            "stars": 12091,
             "topics": [
               "llm",
               "proxy"
@@ -4421,11 +4421,11 @@
             "id": 787076358,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T16:04:20Z",
+            "last_commit": "2026-10-03T04:00:16Z",
             "open_issues": 513,
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 187819,
+            "stars": 188001,
             "topics": [
               "ai",
               "ai-agents",
@@ -4476,7 +4476,7 @@
         {
           "node_type": "item",
           "title": "xberg-io/crawlberg",
-          "description": null,
+          "description": "xberg-io/crawlberg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4485,8 +4485,8 @@
             "id": 1176688502,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T11:14:52Z",
-            "open_issues": 253,
+            "last_commit": "2026-10-03T03:44:24Z",
+            "open_issues": 258,
             "owner": "xberg-io",
             "repo": "crawlberg",
             "stars": 180,
@@ -4513,7 +4513,7 @@
         {
           "node_type": "item",
           "title": "Crawlberg",
-          "description": null,
+          "description": "xberg-io/crawlberg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4522,8 +4522,8 @@
             "id": 1176688502,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T11:14:52Z",
-            "open_issues": 253,
+            "last_commit": "2026-10-03T03:44:24Z",
+            "open_issues": 258,
             "owner": "xberg-io",
             "repo": "crawlberg",
             "stars": 180,
@@ -4571,7 +4571,7 @@
         {
           "node_type": "item",
           "title": "goofrey/zoom-search",
-          "description": null,
+          "description": "goofrey/zoom-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4607,7 +4607,7 @@
         {
           "node_type": "item",
           "title": "Zoom Search",
-          "description": null,
+          "description": "goofrey/zoom-search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4666,7 +4666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:20:29.877Z",
+    "last_updated": "2026-10-03T04:33:09.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search",
@@ -4678,7 +4678,7 @@
       "open_issues": 1,
       "owner": "felladrin",
       "repo": "awesome-ai-web-search",
-      "stars": 1459,
+      "stars": 1463,
       "topics": [
         "ai",
         "ai-search-engine",
