@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-02T01:55:40Z",
-            "open_issues": 173,
+            "open_issues": 174,
             "owner": "khoj-ai",
             "repo": "khoj",
-            "stars": 38161,
+            "stars": 38173,
             "topics": [
               "agent",
               "ai",
@@ -58,10 +58,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-02T01:55:40Z",
-            "open_issues": 173,
+            "open_issues": 174,
             "owner": "khoj-ai",
             "repo": "khoj",
-            "stars": 38161,
+            "stars": 38173,
             "topics": [
               "agent",
               "ai",
@@ -151,11 +151,11 @@
             "id": 603085008,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T19:15:39Z",
-            "open_issues": 326,
+            "last_commit": "2026-11-17T22:26:28Z",
+            "open_issues": 325,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 11042,
+            "stars": 11045,
             "topics": [
               "chatgpt",
               "hacktoberfest",
@@ -182,11 +182,11 @@
             "id": 603085008,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T19:15:39Z",
-            "open_issues": 326,
+            "last_commit": "2026-11-17T22:26:28Z",
+            "open_issues": 325,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 11042,
+            "stars": 11045,
             "topics": [
               "chatgpt",
               "hacktoberfest",
@@ -217,7 +217,7 @@
             "open_issues": 8,
             "owner": "mckaywrigley",
             "repo": "clarity-ai",
-            "stars": 1422,
+            "stars": 1421,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -238,7 +238,7 @@
             "open_issues": 8,
             "owner": "mckaywrigley",
             "repo": "clarity-ai",
-            "stars": 1422,
+            "stars": 1421,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -259,7 +259,7 @@
             "open_issues": 546,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 12336,
+            "stars": 12344,
             "topics": [
               "gemma",
               "ggml",
@@ -291,7 +291,7 @@
             "open_issues": 546,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 12336,
+            "stars": 12344,
             "topics": [
               "gemma",
               "ggml",
@@ -361,11 +361,11 @@
             "id": 633262635,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T19:13:23Z",
+            "last_commit": "2026-11-18T18:58:15Z",
             "open_issues": 725,
             "owner": "onyx-dot-app",
             "repo": "onyx",
-            "stars": 33445,
+            "stars": 33452,
             "topics": [
               "ai",
               "ai-chat",
@@ -397,11 +397,11 @@
             "id": 633262635,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T19:13:23Z",
+            "last_commit": "2026-11-18T18:58:15Z",
             "open_issues": 725,
             "owner": "onyx-dot-app",
             "repo": "onyx",
-            "stars": 33445,
+            "stars": 33452,
             "topics": [
               "ai",
               "ai-chat",
@@ -434,10 +434,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-12T19:34:46Z",
-            "open_issues": 56,
+            "open_issues": 61,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 30758,
+            "stars": 30773,
             "topics": [
               "agent",
               "ai",
@@ -467,10 +467,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-12T19:34:46Z",
-            "open_issues": 56,
+            "open_issues": 61,
             "owner": "assafelovic",
             "repo": "gpt-researcher",
-            "stars": 30758,
+            "stars": 30773,
             "topics": [
               "agent",
               "ai",
@@ -499,11 +499,11 @@
             "id": 649170660,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T17:27:12Z",
-            "open_issues": 358,
+            "last_commit": "2026-11-18T18:34:19Z",
+            "open_issues": 340,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 68375,
+            "stars": 68401,
             "topics": [
               "agent-computer",
               "agent-harness",
@@ -536,11 +536,11 @@
             "id": 649170660,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T17:27:12Z",
-            "open_issues": 358,
+            "last_commit": "2026-11-18T18:34:19Z",
+            "open_issues": 340,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 68375,
+            "stars": 68401,
             "topics": [
               "agent-computer",
               "agent-harness",
@@ -631,11 +631,11 @@
             "id": 701547123,
             "language": "Svelte",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T16:27:29Z",
-            "open_issues": 222,
+            "last_commit": "2026-11-18T17:23:16Z",
+            "open_issues": 238,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 158948,
+            "stars": 159036,
             "topics": [
               "ai",
               "llm",
@@ -668,11 +668,11 @@
             "id": 701547123,
             "language": "Svelte",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T16:27:29Z",
-            "open_issues": 222,
+            "last_commit": "2026-11-18T17:23:16Z",
+            "open_issues": 238,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 158948,
+            "stars": 159036,
             "topics": [
               "ai",
               "llm",
@@ -747,11 +747,11 @@
             "id": 704892113,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T02:06:38Z",
+            "last_commit": "2026-11-18T15:59:11Z",
             "open_issues": 2,
             "owner": "felladrin",
             "repo": "MiniSearch",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "ai",
               "ai-search-engine",
@@ -786,11 +786,11 @@
             "id": 704892113,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T02:06:38Z",
+            "last_commit": "2026-11-18T15:59:11Z",
             "open_issues": 2,
             "owner": "felladrin",
             "repo": "MiniSearch",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "ai",
               "ai-search-engine",
@@ -829,7 +829,7 @@
             "open_issues": 9,
             "owner": "myshell-ai",
             "repo": "AIlice",
-            "stars": 1418,
+            "stars": 1419,
             "topics": [
               "agent",
               "ai",
@@ -855,7 +855,7 @@
             "open_issues": 9,
             "owner": "myshell-ai",
             "repo": "AIlice",
-            "stars": 1418,
+            "stars": 1419,
             "topics": [
               "agent",
               "ai",
@@ -881,7 +881,7 @@
             "open_issues": 44,
             "owner": "leptonai",
             "repo": "search_with_lepton",
-            "stars": 8043,
+            "stars": 8042,
             "topics": [
               "ai",
               "ai-applications",
@@ -907,7 +907,7 @@
             "open_issues": 44,
             "owner": "leptonai",
             "repo": "search_with_lepton",
-            "stars": 8043,
+            "stars": 8042,
             "topics": [
               "ai",
               "ai-applications",
@@ -975,7 +975,7 @@
             "open_issues": 45,
             "owner": "developersdigest",
             "repo": "llm-answer-engine",
-            "stars": 5041,
+            "stars": 5040,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -996,7 +996,7 @@
             "open_issues": 45,
             "owner": "developersdigest",
             "repo": "llm-answer-engine",
-            "stars": 5041,
+            "stars": 5040,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -1014,7 +1014,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-01T03:08:54Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "yokingma",
             "repo": "SearChat",
             "stars": 1063,
@@ -1047,7 +1047,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-01T03:08:54Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "yokingma",
             "repo": "SearChat",
             "stars": 1063,
@@ -1083,7 +1083,7 @@
             "open_issues": 58,
             "owner": "nilsherzig",
             "repo": "LLocalSearch",
-            "stars": 5932,
+            "stars": 5931,
             "topics": [
               "llm",
               "search-engine"
@@ -1107,7 +1107,7 @@
             "open_issues": 58,
             "owner": "nilsherzig",
             "repo": "LLocalSearch",
-            "stars": 5932,
+            "stars": 5931,
             "topics": [
               "llm",
               "search-engine"
@@ -1131,7 +1131,7 @@
             "open_issues": 58,
             "owner": "nilsherzig",
             "repo": "LLocalSearch",
-            "stars": 5932,
+            "stars": 5931,
             "topics": [
               "llm",
               "search-engine"
@@ -1155,7 +1155,7 @@
             "open_issues": 52,
             "owner": "miurla",
             "repo": "morphic",
-            "stars": 9337,
+            "stars": 9338,
             "topics": [
               "generative-ai",
               "generative-ui",
@@ -1189,7 +1189,7 @@
             "open_issues": 52,
             "owner": "miurla",
             "repo": "morphic",
-            "stars": 9337,
+            "stars": 9338,
             "topics": [
               "generative-ai",
               "generative-ui",
@@ -1223,7 +1223,7 @@
             "open_issues": 384,
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 38235,
+            "stars": 38248,
             "topics": [
               "ai-agents",
               "ai-search-engine",
@@ -1259,7 +1259,7 @@
             "open_issues": 384,
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 38235,
+            "stars": 38248,
             "topics": [
               "ai-agents",
               "ai-search-engine",
@@ -1295,7 +1295,7 @@
             "open_issues": 384,
             "owner": "ItzCrazyKns",
             "repo": "Vane",
-            "stars": 38235,
+            "stars": 38248,
             "topics": [
               "ai-agents",
               "ai-search-engine",
@@ -1331,7 +1331,7 @@
             "open_issues": 120,
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31903,
+            "stars": 31910,
             "topics": [
               "agentic-rag",
               "deep-research",
@@ -1362,7 +1362,7 @@
             "open_issues": 120,
             "owner": "stanford-oval",
             "repo": "storm",
-            "stars": 31903,
+            "stars": 31910,
             "topics": [
               "agentic-rag",
               "deep-research",
@@ -1393,7 +1393,7 @@
             "open_issues": 53,
             "owner": "rashadphz",
             "repo": "farfalle",
-            "stars": 3539,
+            "stars": 3538,
             "topics": [
               "fastapi",
               "generative-ui",
@@ -1428,7 +1428,7 @@
             "open_issues": 53,
             "owner": "rashadphz",
             "repo": "farfalle",
-            "stars": 3539,
+            "stars": 3538,
             "topics": [
               "fastapi",
               "generative-ui",
@@ -1519,11 +1519,11 @@
             "id": 805155266,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T19:13:49Z",
-            "open_issues": 2792,
+            "last_commit": "2026-11-18T18:04:11Z",
+            "open_issues": 2809,
             "owner": "CherryHQ",
             "repo": "cherry-studio",
-            "stars": 53598,
+            "stars": 53626,
             "topics": [
               "agent-skills",
               "agent-workspace",
@@ -1554,11 +1554,11 @@
             "id": 805155266,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T19:13:49Z",
-            "open_issues": 2792,
+            "last_commit": "2026-11-18T18:04:11Z",
+            "open_issues": 2809,
             "owner": "CherryHQ",
             "repo": "cherry-studio",
-            "stars": 53598,
+            "stars": 53626,
             "topics": [
               "agent-skills",
               "agent-workspace",
@@ -1858,7 +1858,7 @@
             "open_issues": 61,
             "owner": "InternLM",
             "repo": "MindSearch",
-            "stars": 6945,
+            "stars": 6943,
             "topics": [
               "ai-search-engine",
               "gpt",
@@ -1890,7 +1890,7 @@
             "open_issues": 61,
             "owner": "InternLM",
             "repo": "MindSearch",
-            "stars": 6945,
+            "stars": 6943,
             "topics": [
               "ai-search-engine",
               "gpt",
@@ -1919,10 +1919,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T06:28:48Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "MODSetter",
             "repo": "SurfSense",
-            "stars": 16893,
+            "stars": 16892,
             "topics": [
               "agent",
               "agents",
@@ -1950,10 +1950,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T06:28:48Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "MODSetter",
             "repo": "SurfSense",
-            "stars": 16893,
+            "stars": 16892,
             "topics": [
               "agent",
               "agents",
@@ -1984,7 +1984,7 @@
             "open_issues": 4,
             "owner": "YassKhazzan",
             "repo": "openperplex_backend_os",
-            "stars": 889,
+            "stars": 888,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -2005,7 +2005,7 @@
             "open_issues": 4,
             "owner": "YassKhazzan",
             "repo": "openperplex_backend_os",
-            "stars": 889,
+            "stars": 888,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -2065,10 +2065,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-12T22:28:59Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "zaidmukaddam",
             "repo": "scira",
-            "stars": 11948,
+            "stars": 11949,
             "topics": [
               "ai-search-engine",
               "minimalistic-ai-search-engine",
@@ -2092,10 +2092,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-12T22:28:59Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "zaidmukaddam",
             "repo": "scira",
-            "stars": 11948,
+            "stars": 11949,
             "topics": [
               "ai-search-engine",
               "minimalistic-ai-search-engine",
@@ -2732,7 +2732,7 @@
             "open_issues": 11,
             "owner": "TheBlewish",
             "repo": "Automated-AI-Web-Researcher-Ollama",
-            "stars": 3019,
+            "stars": 3018,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -2753,7 +2753,7 @@
             "open_issues": 11,
             "owner": "TheBlewish",
             "repo": "Automated-AI-Web-Researcher-Ollama",
-            "stars": 3019,
+            "stars": 3018,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -2816,7 +2816,7 @@
             "open_issues": 47,
             "owner": "langchain-ai",
             "repo": "local-deep-researcher",
-            "stars": 9414,
+            "stars": 9418,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -2837,7 +2837,7 @@
             "open_issues": 47,
             "owner": "langchain-ai",
             "repo": "local-deep-researcher",
-            "stars": 9414,
+            "stars": 9418,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -2998,7 +2998,7 @@
             "open_issues": 12,
             "owner": "hrithikkoduri",
             "repo": "WebRover",
-            "stars": 1026,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -3019,7 +3019,7 @@
             "open_issues": 12,
             "owner": "hrithikkoduri",
             "repo": "WebRover",
-            "stars": 1026,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -3040,7 +3040,7 @@
             "open_issues": 57,
             "owner": "jina-ai",
             "repo": "node-DeepResearch",
-            "stars": 5247,
+            "stars": 5248,
             "topics": [
               "deepresearch",
               "deepsearch"
@@ -3064,7 +3064,7 @@
             "open_issues": 57,
             "owner": "jina-ai",
             "repo": "node-DeepResearch",
-            "stars": 5247,
+            "stars": 5248,
             "topics": [
               "deepresearch",
               "deepsearch"
@@ -3084,11 +3084,11 @@
             "id": 923138240,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T19:00:09Z",
-            "open_issues": 108,
+            "last_commit": "2026-11-18T16:57:55Z",
+            "open_issues": 110,
             "owner": "MaplePrivacyLabs",
             "repo": "Maple",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-11-03T17:59:22.514Z"
@@ -3105,11 +3105,11 @@
             "id": 923138240,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T19:00:09Z",
-            "open_issues": 108,
+            "last_commit": "2026-11-18T16:57:55Z",
+            "open_issues": 110,
             "owner": "MaplePrivacyLabs",
             "repo": "Maple",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-11-03T17:59:22.514Z"
@@ -3130,7 +3130,7 @@
             "open_issues": 47,
             "owner": "nickscamara",
             "repo": "open-deep-research",
-            "stars": 6301,
+            "stars": 6300,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -3151,7 +3151,7 @@
             "open_issues": 47,
             "owner": "nickscamara",
             "repo": "open-deep-research",
-            "stars": 6301,
+            "stars": 6300,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:20.703Z"
@@ -3168,11 +3168,11 @@
             "id": 929868765,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T18:40:53Z",
-            "open_issues": 1481,
+            "last_commit": "2026-11-18T10:50:09Z",
+            "open_issues": 1509,
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 9597,
+            "stars": 9600,
             "topics": [
               "academia",
               "anthropic",
@@ -3210,11 +3210,11 @@
             "id": 929868765,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T18:40:53Z",
-            "open_issues": 1481,
+            "last_commit": "2026-11-18T10:50:09Z",
+            "open_issues": 1509,
             "owner": "LearningCircuit",
             "repo": "local-deep-research",
-            "stars": 9597,
+            "stars": 9600,
             "topics": [
               "academia",
               "anthropic",
@@ -3253,7 +3253,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T21:34:44Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "masterFoad",
             "repo": "NanoSage",
             "stars": 265,
@@ -3289,7 +3289,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T21:34:44Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "masterFoad",
             "repo": "NanoSage",
             "stars": 265,
@@ -3378,11 +3378,11 @@
             "id": 932490533,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T15:35:10Z",
+            "last_commit": "2026-11-18T14:41:11Z",
             "open_issues": 11,
             "owner": "ThinkInAIXYZ",
             "repo": "deepchat",
-            "stars": 6403,
+            "stars": 6407,
             "topics": [
               "agent",
               "agent-skills",
@@ -3418,11 +3418,11 @@
             "id": 932490533,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T15:35:10Z",
+            "last_commit": "2026-11-18T14:41:11Z",
             "open_issues": 11,
             "owner": "ThinkInAIXYZ",
             "repo": "deepchat",
-            "stars": 6403,
+            "stars": 6407,
             "topics": [
               "agent",
               "agent-skills",
@@ -3584,11 +3584,11 @@
             "id": 979115477,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T14:02:31Z",
+            "last_commit": "2026-11-18T13:29:15Z",
             "open_issues": 1127,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 85445,
+            "stars": 85492,
             "topics": [
               "agent",
               "agentic",
@@ -3624,11 +3624,11 @@
             "id": 979115477,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T14:02:31Z",
+            "last_commit": "2026-11-18T13:29:15Z",
             "open_issues": 1127,
             "owner": "bytedance",
             "repo": "deer-flow",
-            "stars": 85445,
+            "stars": 85492,
             "topics": [
               "agent",
               "agentic",
@@ -3752,7 +3752,7 @@
             "open_issues": 78,
             "owner": "google-gemini",
             "repo": "gemini-fullstack-langgraph-quickstart",
-            "stars": 18371,
+            "stars": 18372,
             "topics": [
               "gemini",
               "gemini-api"
@@ -3776,7 +3776,7 @@
             "open_issues": 78,
             "owner": "google-gemini",
             "repo": "gemini-fullstack-langgraph-quickstart",
-            "stars": 18371,
+            "stars": 18372,
             "topics": [
               "gemini",
               "gemini-api"
@@ -4044,8 +4044,8 @@
             "id": 1173225605,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T19:04:54Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-18T18:50:22Z",
+            "open_issues": 46,
             "owner": "tobocop2",
             "repo": "lilbee",
             "stars": 71,
@@ -4086,8 +4086,8 @@
             "id": 1173225605,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T19:04:54Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-18T18:50:22Z",
+            "open_issues": 46,
             "owner": "tobocop2",
             "repo": "lilbee",
             "stars": 71,
@@ -4200,7 +4200,7 @@
             "id": 1355857144,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T09:59:44Z",
+            "last_commit": "2026-11-18T09:57:07Z",
             "open_issues": 5,
             "owner": "theguysudo",
             "repo": "ENZO",
@@ -4242,7 +4242,7 @@
             "id": 1355857144,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T09:59:44Z",
+            "last_commit": "2026-11-18T09:57:07Z",
             "open_issues": 5,
             "owner": "theguysudo",
             "repo": "ENZO",
@@ -4290,11 +4290,11 @@
             "id": 357241735,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T12:55:56Z",
+            "last_commit": "2026-11-18T08:28:34Z",
             "open_issues": 209,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 39648,
+            "stars": 39676,
             "topics": [
               "bing",
               "brave",
@@ -4327,11 +4327,11 @@
             "id": 357241735,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T12:55:56Z",
+            "last_commit": "2026-11-18T08:28:34Z",
             "open_issues": 209,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 39648,
+            "stars": 39676,
             "topics": [
               "bing",
               "brave",
@@ -4389,7 +4389,7 @@
             "open_issues": 38,
             "owner": "jina-ai",
             "repo": "reader",
-            "stars": 12262,
+            "stars": 12269,
             "topics": [
               "llm",
               "proxy"
@@ -4404,16 +4404,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+            "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
             "homepage": "https://firecrawl.dev",
             "id": 787076358,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T19:10:42Z",
-            "open_issues": 818,
+            "last_commit": "2026-11-18T18:58:34Z",
+            "open_issues": 819,
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 202583,
+            "stars": 202969,
             "topics": [
               "ai",
               "ai-agents",
@@ -4549,7 +4549,7 @@
             "id": 1181951006,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T18:47:38Z",
+            "last_commit": "2026-11-18T15:32:53Z",
             "open_issues": 2,
             "owner": "context-dot-dev",
             "repo": "context-typescript-sdk",
@@ -4586,8 +4586,8 @@
             "id": 1261511751,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T12:56:56Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-18T00:25:51Z",
+            "open_issues": 5,
             "owner": "sofya-co",
             "repo": "sofya-mcp",
             "stars": 2,
@@ -4705,7 +4705,7 @@
             "id": 1420231495,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T13:29:27Z",
+            "last_commit": "2026-11-18T09:28:02Z",
             "open_issues": 1,
             "owner": "rocosen",
             "repo": "flashdata-mcp",
@@ -4757,7 +4757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:17:17.254Z",
+    "last_updated": "2026-11-18T18:58:45.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search",
@@ -4765,7 +4765,7 @@
       "id": 885931826,
       "language": "HTML",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-17T00:19:45Z",
+      "last_commit": "2026-11-18T13:53:09Z",
       "open_issues": 0,
       "owner": "felladrin",
       "repo": "awesome-ai-web-search",
@@ -4789,7 +4789,7 @@
         "web-search"
       ]
     },
-    "original_repository_sha": "30cce03bfd8d3ab080a787ee0a3faa97625a4605",
+    "original_repository_sha": "6ab7a68f3a24e20f95eb51e6da71d7a5854d86da",
     "enhanced_repository": "enhansome/enhansome-ai-web-search",
     "enhanced_repository_description": null,
     "title": "Awesome AI Web Search with stars"
